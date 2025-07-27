@@ -1,184 +1,39 @@
 "use client";
 
-import { motion, useScroll, useTransform, MotionValue } from "framer-motion";
-import { useContext } from "react";
 import Image from "next/image";
-import { SectionContext } from "@/lib/section-context";
+import ScrollingDownSvg from "./icons/scrolling-down-icon";
 
-type BackgroundImageProps = {
-	src: string;
-	alt: string;
-	zIndex: string;
-	style?: React.CSSProperties | { [key: string]: MotionValue };
-};
+const TitleText = () => (
+	<div className="absolute top-[6.5%] w-full flex flex-col items-center text-center px-4 z-20">
+		<div className="font-pridi text-[#494B2F] text-[60px] font-medium mb-3 tracking-[0.05em] scale-x-[0.95] scale-y-[0.95]">
+			ตำน้ำพริกละลาย
+		</div>
 
-const BackgroundImage = ({ src, alt, zIndex, style = {} }: BackgroundImageProps) => (
-	<motion.div style={style} className={`fixed inset-0 ${zIndex}`}>
-		<Image src={src} alt={alt} fill className="object-cover" priority />
-	</motion.div>
-);
-
-type TitleTextProps = {
-	opacity: MotionValue<number>;
-	y: MotionValue<number>;
-};
-
-const TitleText = ({ opacity, y }: TitleTextProps) => (
-	<motion.h1 style={{ opacity, y }} className="flex-col">
-		<div
-			className="fixed w-screen text-center pt-36 z-10 pl-[0.25em] font-oswald font-semibold text-[10vw] sm:text-[10vw] md:text-[11vw] lg:text-[13vw] xl:text-[15vw] 2xl:text-[18vw] leading-[1] tracking-[0.1em] sm:tracking-[0.15em] md:tracking-[0.2em] lg:tracking-[0.25em] text-[#494B2F] mt-8"
-			style={{
-				maskImage: "linear-gradient(to bottom, black 70%, transparent 100%)",
-				WebkitMaskImage: "linear-gradient(to bottom, black 70%, transparent 100%)",
-			}}
-		>
+		<div className="font-oswald text-[#494B2F] font-semibold text-[180px] leading-none tracking-[0.32em] scale-y-[1.2] scale-x-[1.2] translate-x-[35px]">
 			MEKONG
 		</div>
-		<div className="fixed w-screen left-0 flex justify-between px-24 mt-96 z-10">
-			<p className="font-oswald font-semibold pl-[0.25em] text-[3vw] sm:text-[3vw] md:text-[4vw] lg:text-[5vw] xl:text-[6vw] 2xl:text-[7vw] text-[#A1AC5F]">
-				ตำน้ำพริก
-			</p>
-			<p className="font-oswald font-semibold pr-[0.25em] text-[3vw] sm:text-[3vw] md:text-[4vw] lg:text-[5vw] xl:text-[6vw] 2xl:text-[7vw] text-[#A1AC5F]">
-				ละลายโขง
-			</p>
+
+		<div className="font-ibm text-[#494B2B] font-bold text-[32px] mt-12 tracking-[0.1em] scale-x-[0.95]">
+			สำรวจความคุ้มค่าเขื่อนป้องกันตลิ่ง 4 หมื่นล้าน <br />
+			“คำตอบจากรัฐ” กับ “คำถามจากชุมชน”
 		</div>
-	</motion.h1>
-);
-
-type QuoteProps = {
-	side?: "left" | "right";
-	opacity: MotionValue<number>;
-	y: MotionValue<number>;
-	lines: string[];
-};
-
-const Quote = ({ side = "left", opacity, y, lines }: QuoteProps) => (
-	<motion.div
-		style={{ opacity, y }}
-		className={`fixed top-[6rem] ${
-			side === "left" ? "left-0 z-0" : "right-0 z-20"
-		} p-4 text-[#F5F3F0] text-2xl font-bold italic font-psl-ornanong-pro`}
-	>
-		<div className="flex items-start justify-center">
-			<Image
-				src="/images/double-quote.png"
-				alt="Left Quote"
-				width={24}
-				height={24}
-				className="mr-2 -rotate-180"
-				priority
-			/>
-			<div className="flex flex-col items-center">
-				{lines.map((line, idx) => (
-					<p key={idx}>{line}</p>
-				))}
-			</div>
-			<Image
-				src="/images/double-quote.png"
-				alt="Right Quote"
-				width={24}
-				height={24}
-				className="ml-10 mt-14"
-				priority
-			/>
-		</div>
-	</motion.div>
-);
-
-type QuoteFooterProps = {
-	opacity: MotionValue<number>;
-	y: MotionValue<number>;
-	lines: string[];
-};
-
-const QuoteFooter = ({ opacity, y, lines }: QuoteFooterProps) => (
-	<motion.div
-		style={{ opacity, y }}
-		className="fixed bottom-[6rem] right-[6rem] p-4 z-20 text-[#F5F3F0] text-2xl font-bold italic font-psl-ornanong-pro"
-	>
-		<div className="flex items-start justify-center">
-			<div className="flex flex-col items-center">
-				{lines.map((line, idx) => (
-					<p key={idx}>{line}</p>
-				))}
-			</div>
-		</div>
-	</motion.div>
+	</div>
 );
 
 export default function HeroSection() {
-	const { containerRef } = useContext(SectionContext);
-	const { scrollYProgress } = useScroll({
-		target: containerRef,
-		offset: ["start end", "end start"],
-	});
-
-	const secondBackgroundOpacity = useTransform(scrollYProgress, [0.15, 0.6], [0, 1]);
-	const imageScale = useTransform(scrollYProgress, [0, 0.3, 0.6], [1, 1, 1.05]);
-	const imageRotate = useTransform(scrollYProgress, [0, 0.5], [0, 2]);
-	const titleOpacity = useTransform(scrollYProgress, [0, 0.1, 0.15], [1, 1, 0]);
-	const titleY = useTransform(scrollYProgress, [0, 0.1, 0.2], [-90, -90, -100]);
-
-	const useMakeTransform = (range: number[]) => [
-		useTransform(scrollYProgress, range, [0, 1, 0]),
-		useTransform(scrollYProgress, range, [-20, 0, -20]),
-	];
-
-	const [desc1Opacity, desc1Y] = useMakeTransform([0.15, 0.25, 0.4]);
-	const [desc2Opacity, desc2Y] = useMakeTransform([0.4, 0.5, 0.65]);
-	const [desc3Opacity, desc3Y] = useMakeTransform([0.65, 0.75, 0.9]);
-	const [nameOpacity, nameY] = useMakeTransform([0.65, 0.75, 0.9]);
-
 	return (
-		<section className="min-h-[300vh] relative overflow-hidden">
-			<BackgroundImage src="/images/mekong.png" alt="Mekong River" zIndex="-z-20" />
-			<BackgroundImage
-				src="/images/mekong-second-frame.png"
-				alt="Mekong River Second Frame"
-				zIndex="-z-10"
-				style={{ opacity: secondBackgroundOpacity }}
-			/>
-			<TitleText opacity={titleOpacity} y={titleY} />
-			<motion.div className="fixed inset-0 z-10" style={{ scale: imageScale, rotate: imageRotate }}>
-				<Image src="/images/villager.png" alt="Villager" fill className="object-cover" priority />
-			</motion.div>
-
-			<Quote
-				opacity={desc1Opacity}
-				y={desc1Y}
-				lines={[
-					"ชาวบ้านริมฝั่งแม่น้ำโขงและปากแม่น้ำมูลหาปลาลำบากมาก",
-					"นอกจากกระแสน้ำที่เปลี่ยนแปลงแล้ว ชุมชนฝั่งลาวมีการช็อตปลา",
-					"และบางส่วนลักลอบเข้ามาช็อตปลาในฝั่งไทยด้วย ทำให้พันธุ์ปลาเป็นหมัน",
-				]}
-			/>
-
-			<Quote
-				side="right"
-				opacity={desc2Opacity}
-				y={desc2Y}
-				lines={[
-					"จากเดิมที่เคยมีชาวบ้านทำประมงกว่า 100 ครอบครัว",
-					"ตอนนี้เหลือเพียง 10-20 ครอบครัวเท่านั้น",
-					"ชุมชนต้องสูญเสียรายได้จนต้องออกไปหางานที่ต่างจังหวัด",
-				]}
-			/>
-
-			<Quote
-				opacity={desc3Opacity}
-				y={desc3Y}
-				lines={[
-					"เกษตรริมโขงได้รับผลกระทบจากการระดับน้ำโขงขึ้นลงผิดปกติ",
-					"หน้าแล้งทำ เกษตรได้เพียงครึ่งพื้นที่จากเดิม",
-					"และบางครั้งน้ำขึ้นสูงทันทีทำให้ท่วมแปลงเกษตรเสียหายทั้งหมด",
-				]}
-			/>
-
-			<QuoteFooter
-				opacity={nameOpacity}
-				y={nameY}
-				lines={["สมปอง เวียงจันทร์", "ชาวบ้านริมแม่น้ำโขง จ.อุบลราชธานี"]}
-			/>
+		<section className="relative h-screen snap-start">
+			<Image src="/images/mekong.png" alt="Mekong River" fill className="object-cover object-top" />
+			<Image src="/images/cloud.png" alt="Cloud" fill className="object-cover object-top" priority />
+			<TitleText />
+			<div className="absolute bottom-10 left-1/2 -translate-x-1/2">
+				<div className="flex flex-col items-center gap-2">
+					<ScrollingDownSvg />
+					<span className="font-ibm text-white font-bold text-[32px] tracking-[0.1em] scale-x-[0.95]">
+						Scroll down
+					</span>
+				</div>
+			</div>
 		</section>
 	);
 }
