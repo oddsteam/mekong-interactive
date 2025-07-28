@@ -26,13 +26,13 @@ export default function SecondSection() {
 
 			<motion.div
 				style={{ opacity: opacity }}
-				className="flex flex-col items-center justify-center text-center text-white h-screen"
+				className="flex flex-col items-center justify-center text-center text-white h-screen font-nosansthai"
 			>
-				<p className="font-nosansthai text-4xl font-normal mb-6">ส่งผลให้รัฐบาลใช้งบประมาณไปกว่า</p>
-				<p className="font-nosansthai text-[100px] font-extrabold text-[#FFEB52] mb-2">
+				<p className="text-4xl font-normal mb-6">ส่งผลให้รัฐบาลใช้งบประมาณไปกว่า</p>
+				<p className="text-[100px] font-extrabold text-[#FFEB52] mb-2">
 					<CountUp from={8000000000} to={10000000000} duration={2} separator="," prefix="~" suffix=" ฿" />
 				</p>
-				<p className="font-nosansthai text-4xl font-normal mt-1">ไปกับโครงการสร้างเขื่อนป้องกันตลิ่ง</p>
+				<p className="text-4xl font-normal mt-1">ไปกับโครงการสร้างเขื่อนป้องกันตลิ่ง</p>
 			</motion.div>
 		</section>
 	);

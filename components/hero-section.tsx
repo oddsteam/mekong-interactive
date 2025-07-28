@@ -29,7 +29,7 @@ export default function HeroSection() {
 			<div className="absolute bottom-10 left-1/2 -translate-x-1/2">
 				<div className="flex flex-col items-center gap-2">
 					<ScrollingDownSvg />
-					<span className="font-ibm text-white font-bold text-[32px] tracking-[0.1em] scale-x-[0.95]">
+					<span className="font-ibm text-white text-4xl">
 						Scroll down
 					</span>
 				</div>

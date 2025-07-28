@@ -19,7 +19,7 @@ export default function ForthSection() {
 				<motion.div className="relative h-full w-full">
 					{/* Background Image */}
 					<Image
-						src="/images/fishing-boats-mekong-river.png"
+						src="/images/by-the-mekong-at-sunset.png"
 						alt="Fishing river"
 						fill
 						className="object-cover"
@@ -27,7 +27,7 @@ export default function ForthSection() {
 
 					{/* Fisherman fades out */}
 					<motion.div
-						className="absolute bottom-0 right-0 w-[880px] z-10"
+						className="absolute bottom-0 right-0 w-3/6 z-10"
 						style={{ opacity: fishermanOpacity }}
 						initial={{ opacity: 1 }}
 						transition={{ duration: 1, ease: "easeInOut" }}
@@ -43,23 +43,23 @@ export default function ForthSection() {
 						สำหรับคนไทย
 						<motion.span
 							className="font-ibm text-8xl font-bold text-[#FFEB52] mt-6 drop-shadow-md inline-block"
-							animate={{
-								scale: [1, 1.3, 1],
-								rotate: [0, 5, -5, 5, 0],
-								textShadow: [
-									"0 0 8px #FFEB52",
-									"0 0 20px #FFEB52",
-									"0 0 8px #FFEB52",
-									"0 0 20px #FFEB52",
-									"0 0 8px #FFEB52",
-								],
-							}}
-							transition={{
-								duration: 1,
-								repeat: Infinity,
-								repeatType: "loop",
-								ease: "easeInOut",
-							}}
+							// animate={{
+							// 	scale: [1, 1.3, 1],
+							// 	rotate: [0, 5, -5, 5, 0],
+							// 	textShadow: [
+							// 		"0 0 8px #FFEB52",
+							// 		"0 0 20px #FFEB52",
+							// 		"0 0 8px #FFEB52",
+							// 		"0 0 20px #FFEB52",
+							// 		"0 0 8px #FFEB52",
+							// 	],
+							// }}
+							// transition={{
+							// 	duration: 1,
+							// 	repeat: Infinity,
+							// 	repeatType: "loop",
+							// 	ease: "easeInOut",
+							// }}
 						>
 							“แม่น้ำโขง”
 						</motion.span>
@@ -71,8 +71,15 @@ export default function ForthSection() {
 				</div>
 			</div>
 
-			<div className="absolute z-20 flex items-center justify-center h-screen pointer-events-none snap-start">
+			<div className="absolute z-20 h-screen w-screen snap-start flex items-end">
 				<ThailandMapSvg />
+				<div className="absolute top-24 right-24 flex flex-col items-start justify-start text-white font-ibm leading-relaxed font-semibold text-balance">
+					<div className="mt-4 text-6xl">
+						มีพื้นที่ตลอดแนวชายฝั่งแม่น้ำรวม
+						<br />
+						ทั้งหมดถึง <span className="text-[#FFEB52] text-[98px]">958 กิโลเมตร</span>
+					</div>
+				</div>
 			</div>
 		</section>
 	);

@@ -26,13 +26,13 @@ export default function FirstSection() {
 				transition={{ duration: 0.8, ease: "easeOut" }}
 			>
 				<div className="max-w-5xl leading-relaxed">
-					<p className="font-ibm text-xl sm:text-3xl font-bold">
-						<span className="text-[#FFEB52]">ความผันผวนของลำน้ำโขง</span>
+					<p className="font-ibm text-xl sm:text-3xl">
+						<span className="text-[#FFEB52] font-bold">ความผันผวนของลำน้ำโขง</span>
 						<br />
 						และปัญหาการพังทลายของตลิ่งที่เกิดจากการกัดเซาะของน้ำ
 						<br />
 						กำลังก่อผลกระทบต่อชีวิตผู้คนจำนวนมากใน
-						<span className="text-[#FFEB52]"> 8 จังหวัดของไทย</span>
+						<span className="text-[#FFEB52] font-bold"> 8 จังหวัดของไทย</span>
 					</p>
 				</div>
 			</motion.div>

@@ -8,6 +8,13 @@ import SecondSection from "@/components/second-section";
 import ThirdSection from "@/components/third-section";
 import ForthSection from "@/components/forth-section";
 import SixthSection from "@/components/sixth-section";
+import FifthSection from "@/components/fifth-section";
+import SeventhSection from "@/components/seventh-section";
+import EighthSection from "@/components/eighth-secion";
+import NinthSection from "@/components/ninth-section";
+import TenthSection from "@/components/tenth-section";
+import EleventhSection from "@/components/eleventh-section";
+import TwelfthSection from "@/components/twelfth-section";
 
 export default function Home() {
 	const containerRef = useRef<HTMLDivElement>(null);
@@ -21,7 +28,14 @@ export default function Home() {
 					<SecondSection />
 					<ThirdSection />
 					<ForthSection />
+					<FifthSection />
 					<SixthSection />
+					<SeventhSection />
+					<EighthSection />
+					<NinthSection />
+					<TenthSection />
+					<EleventhSection />
+					<TwelfthSection />
 				</div>
 			</SectionContext.Provider>
 		</main>

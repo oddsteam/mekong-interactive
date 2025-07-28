@@ -1,4 +1,4 @@
-import { motion, useInView, useScroll, useTransform } from "framer-motion";
+import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 
 export default function ThirdSection() {
@@ -7,13 +7,13 @@ export default function ThirdSection() {
 
 	return (
 		<section ref={sectionRef} className="snap-center w-screen flex items-center">
-			<div className="flex flex-col items-center justify-center h-[70vh] bg-[#171918] px-4 text-center text-white w-screen">
+			<div className="flex flex-col items-center justify-center h-[35vh] bg-[#171918] text-center text-white w-screen">
 				<div className="max-w-9xl">
-					<p className="font-pridi text-6xl font-light leading-[1.5]">
+					<p className="font-pridi text-4xl font-light leading-[1.5]">
 						งบมหาศาลที่ถูกเทลงไป <br />
 						ส่งผลกระทบต่อ
 						<motion.span
-							className="font-medium text-[#FFEB52]"
+							className="font-normal text-[#FFEB52]"
 							style={{ opacity: isInView ? 1 : 0 }}
 							animate={{ opacity: isInView ? 1 : 0 }}
 							transition={{ duration: 2, ease: "easeInOut" }}
