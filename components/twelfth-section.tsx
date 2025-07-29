@@ -55,7 +55,9 @@ export default function ForthSection() {
 					const timestamp = new Date(row.timestamp);
 					return {
 						timestamp,
-						monthDay: `${String(timestamp.getMonth() + 1).padStart(2, "0")}-${String(timestamp.getDate()).padStart(2, "0")}`, // MM-DD
+						monthDay: `${String(timestamp.getMonth() + 1).padStart(2, "0")}-${String(
+							timestamp.getDate()
+						).padStart(2, "0")}`, // MM-DD
 						year: timestamp.getFullYear().toString(),
 						value: parseFloat(row.value),
 					};
@@ -139,45 +141,12 @@ export default function ForthSection() {
 
 	return (
 		<section className="min-h-screen w-screen bg-[#171918] text-white snap-start flex flex-col items-center justify-center px-4 py-10 space-y-12">
-			<div className="flex flex-wrap justify-center gap-4">
-				{availableYearRanges.map((year) => (
-					<button
-						key={year}
-						onClick={() => handleYearFilter(year)}
-						className={`px-4 py-2 rounded-md transition-colors duration-200 ${
-							selectedYear === year ? "bg-[#446A3E57] text-white" : "bg-gray-700 hover:bg-gray-600"
-						}`}
-					>
-						{year}
-					</button>
-				))}
-			</div>
-
-			<div className="flex flex-col lg:flex-row w-full max-w-7xl items-center justify-center gap-10">
-				<div className="w-full lg:w-1/2 flex flex-col items-center">
-					<p className="mb-4 text-center text-base text-gray-300">
-						ข้อมูลระดับน้ำในแม่น้ำโขงที่จังหวัดหนองคาย
-					</p>
-					{chartData ? (
-						<Line data={chartData} options={options} />
-					) : (
-						<p className="text-center text-gray-400">Loading chart...</p>
-					)}
-				</div>
-
-				<div className="w-full lg:w-1/2 flex flex-col items-center">
-					<p className="mb-4 text-center text-base text-gray-300">
-						ภาพถ่ายดาวเทียม ปี <span className="font-semibold">{selectedYear}</span>
-					</p>
-					<Image
-						src="/images/fishing-boats-mekong-river.png"
-						alt="Satellite Image"
-						width={500}
-						height={300}
-						className="object-cover rounded-lg w-full max-w-md h-auto shadow-lg"
-					/>
-				</div>
-			</div>
+			<iframe
+				src="https://flo.uri.sh/visualisation/24453139/embed"
+				title="Interactive or visual content"
+				className="flourish-embed-iframe w-3/4 h-[600px]"
+				sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
+			></iframe>
 
 			<div className="font-ibm text-center text-lg text-gray-200 px-4">
 				<p>
