@@ -41,8 +41,6 @@ import ThirtyFifthSection from "@/components/thirty-fifth-section";
 import ThirtySixthSection from "@/components/thirty-sixth-section";
 import ThirtySeventhSection from "@/components/thirty-seventh-section";
 import ThirtyEighthSection from "@/components/thirty-eighth-section";
-import LastOneSection from "@/components/last-one-section";
-import LastTwoSection from "@/components/last-two-section";
 
 export default function Home() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -93,8 +91,6 @@ export default function Home() {
           <ThirtySixthSection />
           <ThirtySeventhSection />
           <ThirtyEighthSection />
-          <LastTwoSection />
-          <LastOneSection />
         </div>
       </SectionContext.Provider>
     </main>
