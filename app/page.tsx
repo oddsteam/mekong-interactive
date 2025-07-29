@@ -21,6 +21,17 @@ import FifteenthSection from "@/components/fifteenth-section";
 import SixteenthSection from "@/components/sixteenth-section";
 import SeventeenthSection from "@/components/seventeenth-section";
 import EighteenthSection from "@/components/eighteenth-section";
+import NineteenthSection from "@/components/nineteenth-section";
+import TwentiethSection from "@/components/twentieth-section";
+import TwentyFirstSection from "@/components/twenty-first-section";
+import TwentySecondSection from "@/components/twenty-second-section";
+import TwentyThirdSection from "@/components/twenty-thrid-section";
+import TwentyFourthSection from "@/components/twenty-fourth-section";
+import TwentyFifthSection from "@/components/twenty-fifth-section";
+import TwentySixthSection from "@/components/twenty-sixth-section";
+import TwentySeventhSection from "@/components/twenty-seventh-section";
+import TwentyEighthSection from "@/components/twenty-eighth-section";
+import TwentyNinthSection from "@/components/twenty-nineth-section";
 
 export default function Home() {
 	const containerRef = useRef<HTMLDivElement>(null);
@@ -48,6 +59,17 @@ export default function Home() {
 					<SixteenthSection />
 					<SeventeenthSection />
 					<EighteenthSection />
+					<NineteenthSection />
+					<TwentiethSection />
+					<TwentyFirstSection />
+					<TwentySecondSection />
+					<TwentyThirdSection />
+					<TwentyFourthSection />
+					<TwentyFifthSection />
+					<TwentySixthSection />
+					<TwentySeventhSection />
+					<TwentyEighthSection />
+					<TwentyNinthSection />
 				</div>
 			</SectionContext.Provider>
 		</main>
