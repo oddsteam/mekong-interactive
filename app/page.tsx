@@ -41,55 +41,62 @@ import ThirtyFifthSection from "@/components/thirty-fifth-section";
 import ThirtySixthSection from "@/components/thirty-sixth-section";
 import ThirtySeventhSection from "@/components/thirty-seventh-section";
 import ThirtyEighthSection from "@/components/thirty-eighth-section";
+import LastOneSection from "@/components/last-one-section";
+import LastTwoSection from "@/components/last-two-section";
 
 export default function Home() {
-	const containerRef = useRef<HTMLDivElement>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
 
-	return (
-		<main className="h-screen">
-			<SectionContext.Provider value={{ containerRef }}>
-				<div ref={containerRef} className="h-full overflow-y-scroll snap-y snap-mandatory scroll-smooth">
-					<HeroSection />
-					<FirstSection />
-					<SecondSection />
-					<ThirdSection />
-					<ForthSection />
-					<FifthSection />
-					<SixthSection />
-					<SeventhSection />
-					<EighthSection />
-					<NinthSection />
-					<TenthSection />
-					<EleventhSection />
-					<TwelfthSection />
-					<ThirteenthSection />
-					<FourteenthSection />
-					<FifteenthSection />
-					<SixteenthSection />
-					<SeventeenthSection />
-					<EighteenthSection />
-					<NineteenthSection />
-					<TwentiethSection />
-					<TwentyFirstSection />
-					<TwentySecondSection />
-					<TwentyThirdSection />
-					<TwentyFourthSection />
-					<TwentyFifthSection />
-					<TwentySixthSection />
-					<TwentySeventhSection />
-					<TwentyEighthSection />
-					<TwentyNinthSection />
-					<ThirtiethSection />
-					<ThirtyFirstSection />
-					<ThirtySecondSection />
-					<ThirtyThirdSection />
-					<ThirtyFourthSection />
-					<ThirtyFifthSection />
-					<ThirtySixthSection />
-					<ThirtySeventhSection />
-					<ThirtyEighthSection />
-				</div>
-			</SectionContext.Provider>
-		</main>
-	);
+  return (
+    <main className="h-screen">
+      <SectionContext.Provider value={{ containerRef }}>
+        <div
+          ref={containerRef}
+          className="h-full overflow-y-scroll snap-y snap-mandatory scroll-smooth"
+        >
+          <HeroSection />
+          <FirstSection />
+          <SecondSection />
+          <ThirdSection />
+          <ForthSection />
+          <FifthSection />
+          <SixthSection />
+          <SeventhSection />
+          <EighthSection />
+          <NinthSection />
+          <TenthSection />
+          <EleventhSection />
+          <TwelfthSection />
+          <ThirteenthSection />
+          <FourteenthSection />
+          <FifteenthSection />
+          <SixteenthSection />
+          <SeventeenthSection />
+          <EighteenthSection />
+          <NineteenthSection />
+          <TwentiethSection />
+          <TwentyFirstSection />
+          <TwentySecondSection />
+          <TwentyThirdSection />
+          <TwentyFourthSection />
+          <TwentyFifthSection />
+          <TwentySixthSection />
+          <TwentySeventhSection />
+          <TwentyEighthSection />
+          <TwentyNinthSection />
+          <ThirtiethSection />
+          <ThirtyFirstSection />
+          <ThirtySecondSection />
+          <ThirtyThirdSection />
+          <ThirtyFourthSection />
+          <ThirtyFifthSection />
+          <ThirtySixthSection />
+          <ThirtySeventhSection />
+          <ThirtyEighthSection />
+          <LastTwoSection />
+          <LastOneSection />
+        </div>
+      </SectionContext.Provider>
+    </main>
+  );
 }
