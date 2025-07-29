@@ -19,6 +19,8 @@ import ThirteenthSection from "@/components/thirteenth-section";
 import FourteenthSection from "@/components/fourteenth-section";
 import FifteenthSection from "@/components/fifteenth-section";
 import SixteenthSection from "@/components/sixteenth-section";
+import SeventeenthSection from "@/components/seventeenth-section";
+import EighteenthSection from "@/components/eighteenth-section";
 
 export default function Home() {
 	const containerRef = useRef<HTMLDivElement>(null);
@@ -44,6 +46,8 @@ export default function Home() {
 					<FourteenthSection />
 					<FifteenthSection />
 					<SixteenthSection />
+					<SeventeenthSection />
+					<EighteenthSection />
 				</div>
 			</SectionContext.Provider>
 		</main>
