@@ -72,7 +72,7 @@ export default function FifthSection() {
 
 					<motion.div variants={itemVariants} className="flex flex-col items-center">
 						<Image
-							src="/images/mekong-fishing.png"
+							src="/images/mekong-fishing.jpg"
 							alt="Mekong Fishing"
 							width={230}
 							height={230}
