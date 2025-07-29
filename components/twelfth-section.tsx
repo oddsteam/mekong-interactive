@@ -14,7 +14,7 @@ export default function ForthSection() {
 
 	return (
 		<section className="w-screen bg-[#171918] text-white flex flex-col items-center justify-center px-4 py-10 space-y-12">
-			<div className="h-screen flex flex-col items-center justify-center snap-start gap-3">
+			<div className="h-screen flex flex-col items-center justify-center snap-start gap-6">
 				<div className="font-ibm text-center text-lg text-gray-200 px-4">
 					<p>
 						การกักเก็บน้ำของเขื่อนต่าง ๆ ส่งผลอย่างชัดเจนต่อ
@@ -25,27 +25,12 @@ export default function ForthSection() {
 					<p>เช่น ในช่วงฤดูแล้งก็อาจมีปริมาณน้ำมากได้หรือในช่วงฤดูฝนก็อาจจะมีน้ำน้อยได้</p>
 					<p>ทั้งยังส่งผลต่อการเปลี่ยนแปลงของทิศทางการไหลของแม่น้ำอีกด้วย</p>
 				</div>
-				<div className="flex space-x-4">
-					{availableYearRanges.map((year) => (
-						<button
-							key={year}
-							onClick={() => handleYearFilter(year)}
-							className={`px-4 py-2 rounded-lg ${
-								selectedYear === year ? "bg-[#FFEB52] text-black" : "bg-gray-700 text-white"
-							}`}
-						>
-							{year}
-						</button>
-					))}
-				</div>
-				<Image
-					src={`/images/fishing-boats-mekong-river.png`}
-					alt={`Graph showing water levels in the Mekong River for ${selectedYear}`}
-					className="w-full h-1/2"
-					width={800}
-					height={400}
-					style={{ objectFit: "cover" }}
-				/>
+				<iframe
+					src="https://flo.uri.sh/visualisation/24454353/embed"
+					title="Interactive or visual content"
+					className="flourish-embed-iframe w-screen h-[520px]"
+					sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
+				></iframe>
 
 				<div className="font-ibm text-center text-lg text-gray-200 px-4">
 					<p>
