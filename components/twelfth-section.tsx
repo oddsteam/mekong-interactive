@@ -1,17 +1,6 @@
 "use client";
 
-import { useState } from "react";
-import Image from "next/image";
-
-export default function ForthSection() {
-	const [selectedYear, setSelectedYear] = useState("2018-2023");
-
-	const handleYearFilter = (range: string) => {
-		setSelectedYear(range);
-	};
-
-	const availableYearRanges = ["2018-2023", "2018", "2019", "2020", "2021", "2022", "2023"];
-
+export default function TwelfthSection() {
 	return (
 		<section className="w-screen bg-[#171918] text-white flex flex-col items-center justify-center px-4 py-10 space-y-12">
 			<div className="h-screen flex flex-col items-center justify-center snap-start gap-6">
@@ -21,10 +10,11 @@ export default function ForthSection() {
 						<span className="font-medium text-[#FFEB52]"> ‘ปริมาณน้ำ’</span> ที่ไหลมาตามแม่น้ำ
 					</p>
 					และทำให้การเพิ่มหรือลดของระดับน้ำในบางฤดูกาล
-					<span className="font-medium text-[#FFEB52]"> 'ไม่สอดคล้อง'</span> กับธรรมชาติ
+					<span className="font-medium text-[#FFEB52]"> ‘ไม่สอดคล้อง’</span> กับธรรมชาติ
 					<p>เช่น ในช่วงฤดูแล้งก็อาจมีปริมาณน้ำมากได้หรือในช่วงฤดูฝนก็อาจจะมีน้ำน้อยได้</p>
 					<p>ทั้งยังส่งผลต่อการเปลี่ยนแปลงของทิศทางการไหลของแม่น้ำอีกด้วย</p>
 				</div>
+
 				<iframe
 					src="https://flo.uri.sh/visualisation/24454353/embed"
 					title="Interactive or visual content"
