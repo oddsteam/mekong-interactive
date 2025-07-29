@@ -32,6 +32,11 @@ jobs:
         with:
           static_site_generator: next
 
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.2.0"
+
       - name: Restore cache
         uses: actions/cache@v4
         with:
