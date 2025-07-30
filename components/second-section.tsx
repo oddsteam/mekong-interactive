@@ -28,11 +28,11 @@ export default function SecondSection() {
 				style={{ opacity: opacity }}
 				className="flex flex-col items-center justify-center text-center text-white h-screen font-nosansthai"
 			>
-				<p className="text-4xl font-normal mb-6">ส่งผลให้รัฐบาลใช้งบประมาณไปมากกว่า</p>
-				<p className="text-[100px] font-bold text-[#FFEB52] mb-4">
+				<p className="text-4xl font-light mb-6">ส่งผลให้รัฐบาลใช้งบประมาณมากกว่า</p>
+				<p className="font-ibm text-[100px] font-bold text-[#FFEB52] mb-4">
 					<CountUp from={30_000_000_000} to={40_000_000_000} duration={2} separator="," prefix="" suffix=" ฿" />
 				</p>
-				<p className="text-3xl font-normal mt-1">ไปกับโครงการสร้างเขื่อนป้องกันตลิ่งตลอดทศวรรษที่ผ่านมา</p>
+				<p className="text-3xl font-light mt-1">ไปกับโครงการสร้างเขื่อนป้องกันตลิ่งตลอดทศวรรษที่ผ่านมา</p>
 			</motion.div>
 		</section>
 	);
