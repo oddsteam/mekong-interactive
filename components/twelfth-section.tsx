@@ -26,7 +26,7 @@ export default function TwelfthSection() {
 						}}
 					>
 						<p>
-							ปัจจุบัน เขื่อนในแม่น้ำโขงมีทั้งหมด <span className="font-medium text-[#FFEB52]">24 เขื่อน</span>
+							ปัจจุบัน เขื่อนในแม่น้ำโขงมีทั้งหมด <span className="font-medium text-[#FFEB52]">22 เขื่อน</span>
 						</p>
 						<p>ที่สร้างบนแม่น้ำสายหลักที่ไหลมาตามแม่น้ำ</p>
 						<p>ส่วนใหญ่อยู่ในประเทศจีน</p>
