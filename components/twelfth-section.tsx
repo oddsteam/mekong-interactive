@@ -36,7 +36,7 @@ export default function TwelfthSection() {
 			</div>
 
 			<div className="h-screen flex flex-col items-center justify-center snap-start gap-6">
-				<div className="font-ibm text-center text-lg text-gray-200 px-4">
+				<div className="font-ibm text-center text-lg 2xl:text-2xl text-gray-200 px-4">
 					<p>
 						การกักเก็บน้ำของเขื่อนต่าง ๆ ส่งผลอย่างชัดเจนต่อ
 						<span className="font-medium text-[#FFEB52]"> ‘ปริมาณน้ำ’</span> ที่ไหลมาตามแม่น้ำ
@@ -49,12 +49,12 @@ export default function TwelfthSection() {
 
 				<iframe
 					src="https://flo.uri.sh/visualisation/24454353/embed"
-					title="Interactive or visual content"
-					className="flourish-embed-iframe w-screen h-[520px]"
+					title="Nong Khai Area Comparison"
+					className="flourish-embed-iframe w-screen h-[480px] 2xl:h-[800px]"
 					sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
 				></iframe>
 
-				<div className="font-ibm text-center text-lg text-gray-200 px-4">
+				<div className="font-ibm text-center text-lg 2xl:text-2xl text-gray-200 px-4">
 					<p>
 						<span className="font-medium text-[#FFEB52]">ภาพถ่ายดาวเทียม</span>
 						จากสำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน) หรือ GISTDA
@@ -66,7 +66,7 @@ export default function TwelfthSection() {
 			</div>
 
 			<div className="h-screen flex flex-col items-center justify-center snap-start w-screen">
-				<div className="font-ibm text-center text-lg text-gray-200 px-4 mb-4">
+				<div className="font-ibm text-center text-lg 2xl:text-2xl text-gray-200 px-4 mb-4">
 					<p>
 						ในขณะที่
 						<span className="font-medium text-[#FFEB52]">ข้อมูลระดับน้ำ</span>
@@ -80,8 +80,8 @@ export default function TwelfthSection() {
 
 				<iframe
 					src="https://flo.uri.sh/visualisation/24453139/embed"
-					title="Interactive or visual content"
-					className="flourish-embed-iframe w-full md:w-3/4 h-[600px]"
+					title="Nong Khai Water Levels"
+					className="flourish-embed-iframe w-full md:w-3/4 h-[520px] 2xl:h-[800px]"
 					sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
 				/>
 			</div>
