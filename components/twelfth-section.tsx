@@ -3,6 +3,38 @@
 export default function TwelfthSection() {
 	return (
 		<section className="w-screen bg-[#171918] text-white flex flex-col items-center justify-center px-4 py-10 space-y-12">
+			<div className="h-screen snap-start">
+				<div
+					className="font-ibm text-normal 2xl:text-2xl text-gray-200 px-4 relative flex items-center w-screen h-full"
+					style={{
+						backgroundImage: "url('/images/mekong-dams.webp')",
+						backgroundSize: "cover",
+						backgroundPosition: "center",
+						backgroundRepeat: "no-repeat",
+						overflow: "auto",
+					}}
+				>
+					<div className="absolute inset-0 pointer-events-none" />
+					<div
+						className="relative z-10 p-4 text-center"
+						style={{
+							position: "absolute",
+							top: "25%",
+							left: "65%",
+							transform: "translate(-50%, -50%)",
+							minWidth: "300px",
+						}}
+					>
+						<p>
+							ปัจจุบัน เขื่อนในแม่น้ำโขงมีทั้งหมด <span className="font-medium text-[#FFEB52]">24 เขื่อน</span>
+						</p>
+						<p>ที่สร้างบนแม่น้ำสายหลักที่ไหลมาตามแม่น้ำ</p>
+						<p>ส่วนใหญ่อยู่ในประเทศจีน</p>
+						<p>มีทั้งเขื่อนที่สร้างเสร็จแล้วและกำลังก่อสร้าง</p>
+					</div>
+				</div>
+			</div>
+
 			<div className="h-screen flex flex-col items-center justify-center snap-start gap-6">
 				<div className="font-ibm text-center text-lg text-gray-200 px-4">
 					<p>
@@ -32,7 +64,8 @@ export default function TwelfthSection() {
 					ในบริเวณจังหวัดหนองคาย ระหว่างปี 2017 กับ 2023
 				</div>
 			</div>
-			<div className="h-screen w-screen flex flex-col items-center justify-center snap-start">
+
+			<div className="h-screen flex flex-col items-center justify-center snap-start w-screen">
 				<div className="font-ibm text-center text-lg text-gray-200 px-4 mb-4">
 					<p>
 						ในขณะที่
