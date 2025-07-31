@@ -38,8 +38,8 @@ const kartsatapat = localFont({
 });
 
 export const metadata: Metadata = {
-	title: "Storytelling Landing Page",
-	description: "A beautiful storytelling landing page with scroll animations",
+	title: "ตำน้ำพริกละลาย Mekong สำรวจความคุ้มค่าเขื่อนป้องกันตลิ่ง 4 หมื่นล้าน",
+	description: "งบมหาศาลที่ถูกเทลงไป ส่งผลกระทบต่อชีวิตผู้คนริมโขงอย่างไรบ้าง และคุ้มค่าหรือไม่เมื่อเทียบกับผลลัพธ์ที่ได้กลับมา",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
