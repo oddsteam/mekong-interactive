@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function TwentyNinthSection() {
   return (
-    <section className="font-ibm h-[200vh] snap-start bg-[#171918] text-white flex flex-col justify-center items-center py-10 px-20 lg:px-44 leading-snug">
+    <section className="font-ibm h-[200vh] snap-start bg-[#171918] text-white flex flex-col justify-center items-center pt-0 pb-10 px-20 lg:px-44 leading-snug overflow-hidden">
       <div className="relative w-full font-light">
         <div className="bg-[#919191]/20 rounded-2xl h-full flex px-14 py-8">
           <div className="flex flex-col w-1/4 justify-start items-center mr-14">
@@ -18,8 +18,8 @@ export default function TwentyNinthSection() {
               Picture credit : the isaan record
             </p>
           </div>
-          <div className="flex flex-col w-3/4 gap-4">
-            <p className="font-kartsatapat text-3xl">
+          <div className="flex flex-col w-3/4 gap-4 text-xs md:text-sm lg:text-base">
+            <p className="font-kartsatapat text-xl lg:text-3xl">
               “ เขาเอาหินก้อนใหญ่มาทิ้งๆ ริมแม่น้ำ <br />
               ทำให้บริเวณตรงนั้นมันหายไปเลย”
             </p>
@@ -38,7 +38,7 @@ export default function TwentyNinthSection() {
               <Image
                 src="/images/weed.png"
                 alt="Weed page 29"
-                className="w-full h-[30vh] object-cover mb-2"
+                className="w-full h-auto sm:h-[15vh] lg:h-[30vh] object-cover mb-2"
                 width={0}
                 height={0}
                 sizes="100vw"
