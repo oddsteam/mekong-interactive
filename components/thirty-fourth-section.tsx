@@ -14,7 +14,7 @@ export default function ThirtyFourthSection() {
         />
       </div>
 
-      <div className="z-20 font-pridi font-medium text-4xl lg:text-6xl px-4 w-4xl lg:w-6xl leading-relaxed mb-16 scale-x-[1.05]">
+      <div className="z-20 font-pridi font-medium text-4xl lg:text-6xl leading-relaxed mb-16 scale-x-[1.05]">
         <div className="pb-1 lg:pb-6">ประเมินเขื่อนป้องกันตลิ่งโขงทุกมิติ</div>
         <div>คุ้มค่า-ตอบโจทย์ เพื่อคนไทยทุกภาคส่วน</div>
       </div>
