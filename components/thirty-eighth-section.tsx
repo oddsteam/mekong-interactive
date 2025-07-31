@@ -28,7 +28,7 @@ export default function ThirtyEighthSection() {
       ref={sectionRef}
       className="h-screen relative w-full bg-[#2D3A2B] text-white flex flex-col justify-between items-center snap-center"
     >
-      <div className="absolute font-ibm text-l lg:text-xl text-white pt-[70px] text-start font-light">
+      <div className="absolute font-ibm text-base lg:text-xl text-white pt-[70px] text-start font-light">
         <div className="text-2xl lg:text-3xl text-center font-bold pb-6">
           แหล่งอ้างอิง
         </div>

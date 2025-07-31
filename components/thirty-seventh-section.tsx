@@ -7,7 +7,7 @@ export default function ThirtySeventhSection() {
       ref={sectionRef}
       className="relative flex justify-center h-screen w-full bg-gradient-to-b from-[#171918] to-[#2D3A2B] text-white font-ibm snap-center"
     >
-      <div className="h-full w-[50vw] flex flex-col justify-around text-l lg:text-2xl text-white text-center font-light pt-16 pb-16">
+      <div className="h-full w-[50vw] flex flex-col justify-around text-base lg:text-2xl text-white text-center font-light pt-16 pb-16">
         <div>
           <span className="font-bold text-[#FFEB52]">ขณะเดียวกัน</span>{" "}
           ภาครัฐและหน่วยงานที่เกี่ยวข้องควรมี
