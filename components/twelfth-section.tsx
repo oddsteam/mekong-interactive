@@ -71,9 +71,23 @@ export default function TwelfthSection() {
 				<iframe
 					src="https://flo.uri.sh/visualisation/24453139/embed"
 					title="Nong Khai Water Levels"
-					className="flourish-embed-iframe w-full md:w-3/4 h-[520px] 2xl:h-[800px]"
+					className="flourish-embed-iframe w-full md:w-3/4 h-[300px] 2xl:h-[600px]"
 					sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
 				/>
+
+				<div className="font-ibm text-center text-lg 2xl:text-2xl text-gray-200 px-4 mb-4">
+					<p>
+						<br />ข้อมูลวิจัย <span className="font-normal text-[#FFEB52]">‘การลดลงอย่างรวดเร็วของทรัพยากรน้ำผิวดินเพื่อการเกษตรและการประมงในลุ่มน้ำโขงตอนล่างช่วงปี 2000–2020’</span>
+						<br />โดยทีมนักวิจัยชาวฝรั่งเศสที่เผยแพร่ในเว็บไซต์ <a href="https://www.sciencedirect.com" className="hover:text-[#FFEB52] transition-colors">sciencedirect.com</a> ซึ่งใช้วิธีการวิเคราะห์จากดาวเทียมหลายดวง
+						<br />ในการประเมินความแปรผันของการกักเก็บน้ำผิวดินและเชื่อมโยงความแปรผันเหล่านี้กับปัจจัยจากสภาพภูมิอากาศ
+						<br />และปัจจัยที่เกิดจากมนุษย์ทั่วทั้งลุ่มน้ำโขง ซึ่งรวมถึงเขื่อนกักเก็บน้ำต่าง ๆ
+						<br />
+						<br />พบว่า <span className="font-normal text-[#FFEB52]">การดำเนินงานของเขื่อนส่งผลต่อความผันผวนของระดับน้ำในแม่น้ำโขงอย่างมาก</span>
+						<br />โดยพบว่าขอบเขตของน้ำท่วมตามฤดูกาลลดลง 55% <span className="text-gray-400">(จาก 3,178 ตารางกิโลเมตร เป็น 1,414 ตารางกิโลเมตร)</span>
+						<br />และปริมาณน้ำผิวดินลดลงถึง 70% <span className="text-gray-400">(จาก 1,109 ตารางกิโลเมตร เป็น 327 ตารางกิโลเมตร)</span> ในช่วงปี 2000–2020
+						<br />ซึ่งส่งผลกระทบอย่างมากต่อภาคเกษตรกรรมและการทำประมงในแม่น้ำโขง
+					</p>
+				</div>
 			</div>
 		</section>
 	);
