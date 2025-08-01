@@ -40,7 +40,7 @@ import ThirtyFourthSection from "@/components/thirty-fourth-section";
 import ThirtyFifthSection from "@/components/thirty-fifth-section";
 import ThirtySixthSection from "@/components/thirty-sixth-section";
 import ThirtySeventhSection from "@/components/thirty-seventh-section";
-import ThirtyEighthSection from "@/components/thirty-eighth-section";
+import Footer from "@/components/footer";
 
 export default function Home() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -92,7 +92,7 @@ export default function Home() {
           <ThirtyFifthSection />
           <ThirtySixthSection />
           <ThirtySeventhSection />
-          <ThirtyEighthSection />
+          <Footer />
         </div>
       </SectionContext.Provider>
     </main>

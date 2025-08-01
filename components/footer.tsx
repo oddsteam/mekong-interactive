@@ -20,7 +20,7 @@ const logo = [
   },
 ];
 
-export default function ThirtyEighthSection() {
+export default function Footer() {
   const sectionRef = useRef<HTMLDivElement>(null);
 
   return (
@@ -34,7 +34,7 @@ export default function ThirtyEighthSection() {
         </div>
         <ul className="list-disc w-[80vw] lg:w-[70vw]">
           <li>
-            govspending.data.go.th : ฐานข้อมูล ภาษีไปไหน?
+            <a href="https://govspending.data.go.th" target="_blank">govspending.data.go.th</a> : ฐานข้อมูล ภาษีไปไหน?
             ระบบข้อมูลการใช้จ่ายภาครัฐ
           </li>
           <li>
@@ -48,7 +48,7 @@ export default function ThirtyEighthSection() {
           <li>
             สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน) : GISTDA
           </li>
-          <li>Mekong River Commission (MRC) : portal.mrcmekong.org</li>
+          <li>Mekong River Commission (MRC) : <a href="https://portal.mrcmekong.org" target="_blank">portal.mrcmekong.org</a></li>
           <li>
             ผศ. อมเรศ บกสุวรรณ อาจารย์ประจำภาควิชาวิศวกรรมโยธา
             มหาวิทยาลัยเทคโนโลยี ราชมงคลธัญบุรี หนึ่งในผู้เขียนงานวิจัย
