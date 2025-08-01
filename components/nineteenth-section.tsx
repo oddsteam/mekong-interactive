@@ -125,7 +125,10 @@ function SectionCard({ data }: { data: SectionData }) {
 							<FlagSvg />
 						</div>
 						<ProgressBar
-							progress={parseFloat(((data.LengthOfCompletedRiverbank / data.LengthOfTheRiverbank) * 100).toFixed(2))}
+							hovered={hovered}
+							progress={parseFloat(
+								((data.LengthOfCompletedRiverbank / data.LengthOfTheRiverbank) * 100).toFixed(2)
+							)}
 							prefix="ทำไปแล้ว "
 						/>
 					</div>
