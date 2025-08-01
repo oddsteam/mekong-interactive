@@ -1,18 +1,52 @@
 import Image from "next/image";
 
 export default function TwentyFourthSection() {
-	return (
-		<section className="h-screen snap-start bg-[#171918] text-white flex flex-col justify-center items-center">
-			<div className="relative w-full h-full">
-				<Image
-					src="/images/page-29.png"
-					alt="Page 29 of the Mekong River interactive story"
-					fill
-					style={{ objectFit: "contain" }}
-					sizes="100vw"
-					priority
-				/>
-			</div>
-		</section>
-	);
+  return (
+    <section className="relative w-screen snap-start text-white flex justify-center items-end">
+      <div className="relative w-full">
+        <Image
+          src="/images/compare-mekong.png"
+          alt="Compare Mekong"
+          className="object-contain"
+          width={1920}
+          height={0}
+          priority
+        />
+      </div>
+
+      <div className="absolute z-20 leading-relaxed mb-16 scale-x-[1.05] text-start left-24 lg:left-48">
+        <div className="font-pridi text-6xl lg:text-8xl mb-1 lg:mb-6 font-medium">
+          ชีวิตริมโขงที่เปลี่ยนไป
+        </div>
+        <div className="font-ibm font-light text-xl lg:text-2xl">
+          ผลกระทบอีกมิติหนึ่งที่เกิดจากการสร้างเขื่อนป้องกันตลิ่งริมแม่น้ำโขงคือ
+          <br />
+          วิถีชีวิตดั้งเดิมและสภาพภูมิทัศน์ของชุมชนริมโขง
+        </div>
+      </div>
+    </section>
+  );
 }
+
+// <section className="relative h-[150vh] snap-start bg-[#171918] text-white flex justify-center items-end px-20 lg:px-52">
+//   <div className="relative w-full h-full">
+// <Image
+//   src="/images/compare-mekong.png"
+//   alt="Compare Mekong"
+//   className="object-cover object-center"
+//   width={1920}
+//   height={0}
+//   priority
+// />
+//   </div>
+//   <div className="z-20 leading-relaxed scale-x-[1.05] mb-52 w-full">
+// <div className="font-pridi text-4xl lg:text-6xl pb-1 lg:pb-6 font-medium">
+//   ชีวิตริมโขงที่เปลี่ยนไป
+// </div>
+// <div className="font-ibm font-light text-2xl">
+//   ผลกระทบอีกมิติหนึ่งที่เกิดจากการสร้างเขื่อนป้องกันตลิ่งริมแม่น้ำโขงคือ
+//   <br />
+//   วิถีชีวิตดั้งเดิมและสภาพภูมิทัศน์ของชุมชนริมโขง
+// </div>
+//   </div>
+// </section>
