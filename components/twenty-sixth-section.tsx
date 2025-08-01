@@ -3,8 +3,8 @@ export default function TwentySixthSection() {
   return (
     <section className="font-ibm w-screen snap-start bg-[#171918] text-white flex flex-col justify-between items-stretch px-20 lg:px-44 pt-5 pb-10 lg:pb-16 text-xl lg:text-2xl overflow-hidden">
       <div className="mb-5 lg:mb-16">
-        ซึ่งนอกจากเกษตรกรรมแล้ว การเลี้ยงปลาในกระชังและการทำประมงชายฝั่งแม่น้ำ
-        ด้วยเรือขนาดเล็กก็เป็นส่วนหนึ่งของวิถีชีวิตดั้งเดิมที่พึ่งพาและผูกพันกับแม่น้ำโขง
+        เขายังเล่าถึงพลวัตของแม่น้ำโขงและวิถีชีวิตริมฝั่งของชุมชนท่าอุเทน
+        โดยชี้ว่า แม่น้ำโขง มีพลวัตการเปลี่ยนแปลงระดับน้ำและตะกอนดินตามฤดูกาล
       </div>
       <div className="">
         <div className="flex flex-col lg:flex-row justify-center items-stretch gap-6">
