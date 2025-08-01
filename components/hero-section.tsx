@@ -23,15 +23,26 @@ const TitleText = () => (
 export default function HeroSection() {
 	return (
 		<section className="relative h-screen snap-start">
-			<Image src="/images/mekong.png" alt="Mekong River" fill className="object-cover object-top" />
-			<Image src="/images/cloud.png" alt="Cloud" fill className="object-cover object-top" priority />
+			<Image
+				src="/images/mekong.png"
+				loading="eager"
+				alt="Mekong River"
+				fill
+				className="object-cover object-top"
+			/>
+			<Image
+				src="/images/cloud.png"
+				loading="eager"
+				alt="Cloud"
+				fill
+				className="object-cover object-top"
+				priority
+			/>
 			<TitleText />
 			<div className="absolute bottom-10 left-1/2 -translate-x-1/2">
 				<div className="flex flex-col items-center gap-2">
 					<ScrollingDownSvg />
-					<span className="font-ibm text-white">
-						Scroll down
-					</span>
+					<span className="font-ibm text-white">Scroll down</span>
 				</div>
 			</div>
 		</section>
