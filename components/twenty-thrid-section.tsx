@@ -1,18 +1,12 @@
-import Image from "next/image";
+import { useRef } from "react";
 
 export default function TwentyThirdSection() {
-	return (
-		<section className="h-screen snap-start bg-[#171918] text-white flex flex-col justify-center items-center">
-			<div className="relative w-full h-full">
-				<Image
-					src="/images/page-28.png"
-					alt="Page 28 of the Mekong River interactive story"
-					fill
-					style={{ objectFit: "contain" }}
-					sizes="100vw"
-					priority
-				/>
-			</div>
-		</section>
-	);
+  const sectionRef = useRef<HTMLDivElement>(null);
+
+  return (
+    <section
+      ref={sectionRef}
+      className="h-screen relative w-full bg-[#171918] text-white flex flex-col justify-end items-center snap-start bg-top bg-no-repeat"
+    ></section>
+  );
 }

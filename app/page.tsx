@@ -25,7 +25,6 @@ import NineteenthSection from "@/components/nineteenth-section";
 import TwentiethSection from "@/components/twentieth-section";
 import TwentyFirstSection from "@/components/twenty-first-section";
 import TwentySecondSection from "@/components/twenty-second-section";
-import TwentyThirdSection from "@/components/twenty-thrid-section";
 import TwentyFourthSection from "@/components/twenty-fourth-section";
 import TwentyFifthSection from "@/components/twenty-fifth-section";
 import TwentySixthSection from "@/components/twenty-sixth-section";
@@ -75,9 +74,9 @@ export default function Home() {
           <NineteenthSection />
           <TwentiethSection />
           <TwentyFirstSection />
-          <TwentySecondSection />
-          <TwentyThirdSection />
 
+          <TwentySecondSection />
+          {/* <TwentyThirdSection /> */}
           <TwentyFourthSection />
           <TwentyFifthSection />
           <TwentySixthSection />
