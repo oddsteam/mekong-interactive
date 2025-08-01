@@ -1,74 +1,63 @@
-// components/ImageStack.js
 "use client";
 
 import { useRef, useEffect, useState } from "react";
 import Image from "next/image";
 import { motion, AnimatePresence, useInView } from "framer-motion";
 
-const images = [
-	"/images/1.png",
-	"/images/2.png",
-	"/images/3.png",
-	"/images/4.png",
-	"/images/5.png",
-	"/images/6.png",
-	"/images/7.png",
-	"/images/8.png",
-	"/images/9.png",
-	"/images/10.png",
-];
+const images = Array.from({ length: 10 }, (_, i) => `/images/${i + 1}.png`);
 
 const ImageStack = () => {
-	const container = useRef(null);
+	const containerRef = useRef(null);
+	const isInView = useInView(containerRef, { amount: 0.3 });
 	const [visibleCount, setVisibleCount] = useState(0);
-	const isInView = useInView(container, { amount: "all", once: false });
 
 	useEffect(() => {
-		const node = container.current;
-		const observer = new IntersectionObserver(
-			(entries) => {
-				const entry = entries[0];
-				if (entry.isIntersecting) {
-					const interval = setInterval(() => {
-						setVisibleCount((prev) => {
-							if (prev >= images.length) {
-								clearInterval(interval);
-								return prev;
-							}
-							return prev + 1;
-						});
-					}, 250);
-				}
-			},
-			{ threshold: 0.3 }
-		);
+		let intervalId: NodeJS.Timeout | null = null;
 
-		if (node) observer.observe(node);
+		if (isInView) {
+			setVisibleCount(0);
+			intervalId = setInterval(() => {
+				setVisibleCount((prev) => {
+					if (prev >= images.length) {
+						if (intervalId) clearInterval(intervalId);
+						return prev;
+					}
+					return prev + 1;
+				});
+			}, 250);
+		} else {
+			setVisibleCount(0);
+		}
 
 		return () => {
-			if (node) observer.unobserve(node);
+			console.log("Cleanup interval");
+
+			if (intervalId) clearInterval(intervalId);
 		};
 	}, [isInView]);
 
 	return (
-		<main ref={container} className="relative h-screen snap-start bg-[#171918]">
+		<motion.div ref={containerRef} className="relative h-screen snap-start bg-[#171918]">
+			<div className="absolute inset-0 z-10 font-ibm font-bold text-5xl text-white text-center flex flex-col items-center justify-center">
+				<p>วิกฤตน้ำผันผวนในแม่น้ำโขง</p>
+				<p>ยังนำมาซึ่งภัยพิบัติมากมายจนถึงปัจจุบัน</p>
+			</div>
+
 			<div className="absolute inset-0 flex items-center justify-center">
 				<div className="relative w-full h-full overflow-hidden">
 					<AnimatePresence>
 						{images.slice(0, visibleCount).map((src, index) => (
 							<motion.div
 								key={index}
-								initial={{ opacity: 0, y: 20, zIndex: images.length + index }}
+								initial={{ opacity: 0, y: 20 }}
 								animate={{ opacity: 1, y: 0 }}
-								exit={{ opacity: 0 }}
-								transition={{ duration: 0.5, delay: index * 0.1 }}
+								exit={{ opacity: 0, display: "none" }}
 								className="absolute w-full h-full flex items-center justify-center"
-								style={{ zIndex: images.length - index }}
+								style={{ zIndex: index + 11 }}
 							>
 								<Image
 									src={src}
 									alt={`Image ${index + 1}`}
-									layout="intrinsic"
 									width={700}
 									height={700}
 									priority={index === 0}
@@ -78,7 +67,7 @@ const ImageStack = () => {
 					</AnimatePresence>
 				</div>
 			</div>
-		</main>
+		</motion.div>
 	);
 };
 
