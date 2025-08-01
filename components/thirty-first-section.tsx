@@ -1,7 +1,7 @@
 export default function ThirtyFirstSection() {
   return (
-    <section className="min-h-screen snap-start bg-[#171918] text-white flex flex-col justify-center items-center px-6 py-16 font-ibm">
-      <div className="max-w-2xl lg:max-w-5xl text-xl lg:text-2xl leading-loose text-white">
+    <section className="min-h-screen snap-start bg-[#171918] text-white flex flex-col justify-center items-center px-20 lg:px-44 py-16 font-ibm">
+      <div className="text-xl lg:text-2xl leading-loose text-white">
         <p className="font-semibold">
           โกวิทย์กล่าวว่า{" "}
           <span className="font-normal">
@@ -13,7 +13,7 @@ export default function ThirtyFirstSection() {
           </span>
         </p>
 
-        <div className="relative my-12 lg:my-20 px-4 text-[#FFEB52] text-center ">
+        <div className="relative my-12 lg:my-20 text-[#FFEB52] text-center ">
           <span className="absolute -left-4 -top-4 text-5xl lg:text-8xl font-ibm font-normal scale-y-38">
             “
           </span>

@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function TwentyEighthSection() {
   return (
     <section className="font-ibm h-[100vh] snap-start bg-[#171918] text-white flex flex-col justify-between items-center pt-10 lg:pb-0 px-20 lg:px-44 leading-snug">
-      <div className="text-base lg:text-xl">
+      <div className="text-lg lg:text-2xl">
         อย่างไรก็ตาม การมาของเขื่อนป้องกันตลิ่ง
         นำมาซึ่งความเปลี่ยนแปลงในการหาเลี้ยงชีพ ของชาวบ้านริมโขง
         จากการสัมภาษณ์ชาวบ้านในพื้นที่ระบุว่า เขื่อนป้องกันตลิ่งทำให้

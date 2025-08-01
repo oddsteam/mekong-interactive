@@ -79,8 +79,8 @@ export default function Home() {
           <TwentyThirdSection />
           <TwentyFourthSection />
           <TwentyFifthSection />
-          <TwentySixthSection />
 
+          <TwentySixthSection />
           <TwentySeventhSection />
           <TwentyEighthSection />
           <TwentyNinthSection />

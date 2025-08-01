@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 export default function ThirtyFifthSection() {
   return (
     <section className="font-ibm h-[180vh] w-full snap-start bg-[#171918] flex justify-center pt-10 lg:pt-20">
-      <div className="w-[75%] text-white text-xl flex flex-col text-start gap-16 leading-relaxed">
-        <div className="text-4xl font-bold">
+      <div className="w-[75%] text-white text-2xl flex flex-col text-start gap-16 leading-tight">
+        <div className="text-5xl font-bold">
           จากข้อมูลต่างๆแน่นอนว่าเขื่อนป้องกันตลิ่งในแม่น้ำโขง ยังมีความสำคัญ
           และเป็นประโยชน์ในหลายด้าน
         </div>

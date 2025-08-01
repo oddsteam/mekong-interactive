@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function TwentyNinthSection() {
   return (
-    <section className="font-ibm h-[200vh] snap-start bg-[#171918] text-white flex flex-col justify-center items-center pt-0 pb-10 px-20 lg:px-44 leading-snug overflow-hidden">
+    <section className="font-ibm snap-start bg-[#171918] text-white flex flex-col justify-center items-center pt-10 pb-10 px-20 lg:px-44 leading-snug overflow-hidden">
       <div className="relative w-full font-light">
         <div className="bg-[#919191]/20 rounded-2xl h-full flex px-14 py-8">
           <div className="flex flex-col w-1/4 justify-start items-center mr-14">
@@ -81,7 +81,7 @@ export default function TwentyNinthSection() {
         </div>
         <div className="flex items-center gap-5 mt-16">
           <Image
-            src="/images/tha-utnan-view.jpg"
+            src="/images/tha-uthen-view.jpg"
             alt="Tha Uthan view"
             className="w-[40vw] h-[40vh] object-center mb-2"
             width={0}
