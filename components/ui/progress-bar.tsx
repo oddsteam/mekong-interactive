@@ -17,7 +17,11 @@ export default function ProgressBar({
 	const [current, setCurrent] = useState(0);
 
 	useEffect(() => {
-		if (!hovered) return;
+		if (!hovered) {
+			count.set(0);
+			setCurrent(0);
+			return;
+		}
 
 		count.set(0);
 
@@ -56,8 +60,12 @@ export default function ProgressBar({
 						/>
 						<div className="flex items-center gap-1 text-xs text-white bg-[#3174A5] p-1 rounded-sm">
 							<div className="flex w-24 justify-center">
-								{prefix}
-								<motion.span ref={ref}> {current.toLocaleString()} %</motion.span>
+								<p>
+									{prefix}
+									<span>
+										<motion.span ref={ref}> {current.toLocaleString()} %</motion.span>
+									</span>
+								</p>
 							</div>
 						</div>
 					</div>
