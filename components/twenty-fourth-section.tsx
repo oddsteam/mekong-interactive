@@ -27,26 +27,3 @@ export default function TwentyFourthSection() {
     </section>
   );
 }
-
-// <section className="relative h-[150vh] snap-start bg-[#171918] text-white flex justify-center items-end px-20 lg:px-52">
-//   <div className="relative w-full h-full">
-// <Image
-//   src="/images/compare-mekong.png"
-//   alt="Compare Mekong"
-//   className="object-cover object-center"
-//   width={1920}
-//   height={0}
-//   priority
-// />
-//   </div>
-//   <div className="z-20 leading-relaxed scale-x-[1.05] mb-52 w-full">
-// <div className="font-pridi text-4xl lg:text-6xl pb-1 lg:pb-6 font-medium">
-//   ชีวิตริมโขงที่เปลี่ยนไป
-// </div>
-// <div className="font-ibm font-light text-2xl">
-//   ผลกระทบอีกมิติหนึ่งที่เกิดจากการสร้างเขื่อนป้องกันตลิ่งริมแม่น้ำโขงคือ
-//   <br />
-//   วิถีชีวิตดั้งเดิมและสภาพภูมิทัศน์ของชุมชนริมโขง
-// </div>
-//   </div>
-// </section>
