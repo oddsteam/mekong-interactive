@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function EighteenthSection() {
 	return (
 		<section className="h-screen snap-start bg-[#000000] text-white flex flex-col justify-center items-center overflow-hidden">
