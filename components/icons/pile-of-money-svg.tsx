@@ -2,26 +2,26 @@ import * as React from "react";
 const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>) => (
 	<svg xmlns="http://www.w3.org/2000/svg" width={610 * 0.7} height={465 * 0.7} fill="none" {...props} viewBox="0 0 610 465">
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m440.235 116.116 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m474.211 135.48-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m440.248 116.936-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -34,18 +34,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m386.992 152.34 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M413.227 152.45c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -66,10 +66,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m406.623 176.502.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -90,26 +90,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m370.835 157.979 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m404.811 177.351-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="M370.847 158.803 303.948 199l33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -122,18 +122,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m317.589 194.203 45.492-27.334c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M343.819 194.305c5.713 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.717.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -154,10 +154,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m337.218 218.366.17 9.726-34.633-19.355-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -178,26 +178,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m301.434 199.846 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m335.408 219.214-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m301.445 200.667-66.898 40.196 33.258 18.557 66.897-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -210,18 +210,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m248.188 236.067 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.401-2.314-15.711.273l-11.561-6.452c4.305-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M274.423 236.172c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -242,10 +242,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m267.821 260.233.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -266,26 +266,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m232.032 241.713 34.681 19.354.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m266.008 261.082-33.969-18.956-67.597 40.616 33.97 18.955 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m232.046 242.53-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -298,18 +298,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m178.787 277.938 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.272l-11.562-6.452c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M205.02 278.04c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.388-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -330,10 +330,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m198.419 302.104.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -354,26 +354,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m163.003 283.553 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.298-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m196.98 302.921-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="M163.018 284.374 96.119 324.57l33.258 18.558 66.898-40.196-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -386,18 +386,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m109.759 319.774 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M135.992 319.876c5.712 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -418,10 +418,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m129.389 343.94.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -442,26 +442,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m94.24 325.014 34.682 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m128.215 344.382-33.97-18.955-67.596 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m94.252 325.835-66.898 40.196 33.257 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -474,18 +474,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m40.994 361.242 45.492-27.334c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.107 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M67.227 361.34c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.028-20.55.358-5.636 3.387-5.57 8.717.142 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -506,10 +506,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m60.626 385.405.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -530,26 +530,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m477.223 138.85 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m511.2 158.218-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m477.237 139.671-66.898 40.196 33.258 18.557 66.897-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -562,18 +562,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m423.98 175.078 45.492-27.334c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.438-11.401-2.315-15.711.273l-11.561-6.452c4.305-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M450.21 175.176c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.905-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -594,10 +594,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m443.61 199.237.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -618,26 +618,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m407.822 180.713 34.681 19.354.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m441.8 200.082-33.969-18.956-67.597 40.616 33.97 18.955 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m407.836 181.534-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -650,18 +650,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m354.579 216.938 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.272l-11.562-6.452c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M380.811 217.04c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.388-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -682,10 +682,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m374.21 241.1.169 9.727-34.632-19.356-.17-9.724L374.21 241.1Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -706,26 +706,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m338.421 222.585 34.681 19.353.22 9.725-68.297 41.036-34.682-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m372.395 241.945-33.969-18.956-67.598 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m338.432 223.397-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -738,18 +738,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m285.173 258.801 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M311.406 258.907c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -770,10 +770,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m304.805 282.971.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -794,26 +794,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m269.02 264.456 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m302.995 283.82-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m269.032 265.276-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -826,18 +826,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m215.776 300.68 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.335c-4.368-2.438-11.401-2.315-15.711.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M242.011 300.79c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.388-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -858,10 +858,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m235.409 324.85.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -882,26 +882,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m199.991 306.292 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m233.965 325.652-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m200.002 307.104-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -914,18 +914,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m146.743 342.512 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M172.978 342.614c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -946,10 +946,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m166.376 366.678.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -970,26 +970,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m131.224 347.753 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m165.2 367.124-33.969-18.955-67.597 40.616 33.97 18.955 67.596-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m131.236 348.573-66.898 40.196 33.258 18.558 66.897-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.296 41.035-34.683-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1002,18 +1002,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m77.98 383.977 45.491-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.305-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M104.213 384.079c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1034,10 +1034,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m97.609 408.139.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1058,26 +1058,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m514.191 160.561 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m548.167 179.929-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m514.203 161.378-66.898 40.196 33.257 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1090,18 +1090,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m460.946 196.778 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.334c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M487.179 196.887c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.571-8.718-.141-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1122,10 +1122,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m480.578 220.948.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1146,26 +1146,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m444.793 202.428 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m478.767 221.781-33.969-18.956-67.597 40.617 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m444.806 203.241-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1178,18 +1178,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m391.547 238.649 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M417.78 238.751c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.572 8.717.14 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1210,10 +1210,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m411.179 262.811.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1234,26 +1234,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m375.391 244.295 34.682 19.354.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m409.367 263.664-33.97-18.956-67.597 40.616 33.97 18.955 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m375.403 245.116-66.898 40.196 33.258 18.558 66.897-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.296 41.035-34.683-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1266,18 +1266,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m322.147 280.516 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.401-2.315-15.711.273l-11.561-6.453c4.305-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M348.38 280.626c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1298,10 +1298,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m341.78 304.686.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1322,26 +1322,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m305.99 286.163 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m339.966 305.531-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m306.004 286.983-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1354,18 +1354,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m252.747 322.383 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M278.978 322.489c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1386,10 +1386,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m272.376 346.553.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1410,26 +1410,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m236.961 328.01 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m270.937 347.378-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m236.977 328.831-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1442,18 +1442,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m183.716 364.235 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M209.949 364.333c5.712 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.388-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1474,10 +1474,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m203.346 388.397.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1498,26 +1498,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m168.199 369.467 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m202.174 388.835-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m168.21 370.288-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.297 41.035L99.9 410.507l68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1530,18 +1530,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m114.952 405.692 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M141.185 405.793c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1562,10 +1562,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m134.583 429.854.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1586,26 +1586,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m551.163 182.284 34.681 19.353.22 9.725-68.296 41.036-34.683-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m585.138 201.648-33.969-18.956-67.597 40.617 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m551.175 183.104-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1618,18 +1618,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m497.918 218.504 45.491-27.335c4.37 2.439 11.406 2.315 15.714-.274l11.56 6.45c-4.307 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M524.152 218.614c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1650,10 +1650,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m517.548 242.67.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1674,26 +1674,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m481.761 224.151 34.682 19.353.22 9.725-68.297 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m515.737 243.519-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m481.775 224.971-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1706,18 +1706,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m428.517 260.375 45.492-27.335c4.37 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M454.749 260.477c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1738,10 +1738,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m448.146 284.537.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1762,26 +1762,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m412.36 266.01 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m446.334 285.382-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m412.371 266.831-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1794,18 +1794,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m359.115 302.239 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.665.107 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M385.346 302.336c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1826,10 +1826,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m378.745 326.397.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1850,26 +1850,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m342.96 307.881 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m376.937 327.249-33.969-18.955-67.598 40.616 33.97 18.955 67.597-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m342.973 308.698-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1882,18 +1882,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m289.714 344.102 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M315.947 344.208c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.388-5.572 8.717.14 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1914,10 +1914,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m309.345 368.268.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1938,26 +1938,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m273.93 349.725 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m307.907 369.089-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m273.944 350.546-66.898 40.196 33.258 18.557 66.897-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -1970,18 +1970,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m220.683 385.942 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M246.92 386.051c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.905-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2002,10 +2002,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m240.315 410.112.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2026,26 +2026,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m205.168 391.186 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m239.139 410.542-33.969-18.955-67.597 40.616 33.969 18.955 67.597-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m205.18 391.999-66.899 40.196 33.258 18.558 66.898-40.196-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2058,18 +2058,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m151.921 427.41 45.492-27.334c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M178.154 427.512c5.713 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.717.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2090,10 +2090,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m171.553 451.573.17 9.726-34.633-19.355-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2114,26 +2114,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m439.984 101.885 34.681 19.354.22 9.724L406.589 172l-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m473.958 121.246-33.969-18.956-67.597 40.616 33.97 18.955 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m439.995 102.698-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2146,18 +2146,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m386.738 138.106 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.272l-11.562-6.452c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M412.972 138.211c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2178,10 +2178,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m406.37 162.272.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2202,26 +2202,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m370.584 143.756 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m404.559 163.121-33.969-18.956-67.597 40.616 33.969 18.955 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m370.596 144.577-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2234,18 +2234,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m317.34 179.977 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M343.573 180.086c5.713 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2266,10 +2266,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m336.969 204.143.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2290,26 +2290,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m301.184 185.616 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m335.16 204.988-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m301.196 186.436-66.898 40.197 33.258 18.557 66.897-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.296 41.035-34.683-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2322,18 +2322,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m247.94 221.844 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.401-2.315-15.711.273l-11.561-6.452c4.305-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M274.173 221.946c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2354,10 +2354,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m267.569 245.998.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2378,26 +2378,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m231.782 227.487 34.681 19.353.22 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m265.758 246.855-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m231.795 228.307-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2410,18 +2410,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m178.539 263.707 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M204.769 263.813c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2442,10 +2442,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m198.167 287.869.169 9.727-34.632-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2466,26 +2466,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m162.755 269.327 34.681 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.298-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m196.732 288.695-33.969-18.956-67.598 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m162.768 270.147-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2498,18 +2498,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m109.51 305.547 45.492-27.335c4.37 2.439 11.406 2.315 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M135.743 305.649c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2530,10 +2530,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m129.142 329.717.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2554,26 +2554,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m93.992 310.788 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m127.968 330.16-33.97-18.956-67.596 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m94.004 311.608-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2586,18 +2586,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m40.746 347.012 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M66.978 347.114c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.636 3.387-5.57 8.716.142 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2618,10 +2618,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m60.376 371.174.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2642,26 +2642,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m476.971 124.612 34.682 19.353.22 9.725-68.297 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m510.948 143.984-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m476.983 125.432-66.898 40.197 33.258 18.557 66.898-40.195-33.258-18.559Zm-.012-.817 34.681 19.353-68.296 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2674,18 +2674,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m423.727 160.832 45.492-27.335c4.37 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M449.96 160.942c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.713-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2706,10 +2706,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m443.358 184.998.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2730,26 +2730,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m407.569 166.479 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m441.544 185.843-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m407.58 167.3-66.898 40.196 33.257 18.557 66.898-40.195L407.58 167.3Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2762,18 +2762,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m354.326 202.7 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.107 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M380.56 202.809c5.712 3.187 14.912 3.029 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2794,10 +2794,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m373.956 226.866.169 9.726-34.632-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2818,26 +2818,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m338.172 208.354 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.724 68.298-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m372.147 227.714-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m338.183 209.167-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2850,18 +2850,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m284.928 244.575 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M311.159 244.676c5.712 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2882,10 +2882,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m304.557 268.737.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2906,26 +2906,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m268.77 250.217 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m302.743 269.582-33.969-18.956-67.597 40.616 33.97 18.955 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m268.78 251.038-66.898 40.196 33.258 18.558 66.897-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2938,18 +2938,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m215.523 286.438 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.401-2.315-15.711.272l-11.561-6.452c4.305-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M241.757 286.543c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.914-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2970,10 +2970,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m235.156 310.604.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -2994,26 +2994,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m199.738 292.049 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m233.715 311.421-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m199.752 292.87-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3026,18 +3026,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m146.494 328.274 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M172.727 328.372c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.388-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3058,10 +3058,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m166.125 352.436.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3082,26 +3082,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m130.976 333.522 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m164.953 352.886-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m130.989 334.339-66.898 40.196 33.258 18.557 66.897-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3114,18 +3114,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m77.73 369.746 45.492-27.334c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.305-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M103.964 369.848c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.905-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3146,10 +3146,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m97.363 393.908.17 9.727L62.9 384.28l-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3170,26 +3170,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m513.938 146.327 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m547.915 165.695-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m513.953 147.147-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3202,18 +3202,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m460.694 182.551 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.335c-4.368-2.438-11.401-2.315-15.711.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M486.927 182.649c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.572-8.717-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3234,10 +3234,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m480.325 206.713.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3258,26 +3258,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m444.542 188.19 34.681 19.353.22 9.725-68.297 41.036-34.682-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m478.514 207.554-33.969-18.955-67.597 40.616 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m444.55 189.007-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3290,18 +3290,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m391.294 224.407 45.491-27.335c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.307 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M417.527 224.512c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3322,10 +3322,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m410.926 248.576.17 9.727-34.633-19.355-.169-9.725 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3346,26 +3346,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m375.137 230.057 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m409.115 249.417-33.97-18.955-67.597 40.616 33.97 18.955 67.597-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m375.151 230.87-66.898 40.196 33.258 18.558 66.898-40.195-33.258-18.559Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3378,18 +3378,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m321.892 266.274 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M348.125 266.383c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.028-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3410,10 +3410,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m341.524 290.444.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3434,26 +3434,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m305.738 271.932 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m339.713 291.304-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m305.75 272.753-66.898 40.196 33.257 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3466,18 +3466,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m252.493 308.153 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.334c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M278.726 308.262c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3498,10 +3498,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m272.126 332.323.169 9.726-34.632-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3522,26 +3522,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m236.708 313.768 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m270.682 333.124-33.969-18.955-67.597 40.616 33.969 18.955 67.597-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m236.721 314.581-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3554,18 +3554,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m183.462 349.989 45.491-27.335c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.665.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M209.695 350.094c5.713 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.717.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3586,10 +3586,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m203.093 374.155.17 9.726-34.633-19.355-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3610,26 +3610,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m167.944 355.233 34.681 19.353.22 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m201.92 374.601-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m167.956 356.053-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3642,18 +3642,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m114.7 391.461 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M140.933 391.563c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.571-8.717-.141-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3674,10 +3674,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m134.329 415.619.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3698,26 +3698,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m550.912 168.049 34.681 19.354.22 9.724-68.296 41.037-34.683-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m584.887 187.406-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m550.924 168.862-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3730,18 +3730,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m497.665 204.266 45.492-27.335c4.369 2.439 11.405 2.314 15.713-.274l11.561 6.45c-4.308 2.589-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M523.9 204.372c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.388-5.572 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3762,10 +3762,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m517.297 228.432.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3786,26 +3786,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m481.513 209.917 34.682 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m515.486 229.273-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m481.525 210.729-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3818,18 +3818,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m428.267 246.137 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M454.501 246.243c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3850,10 +3850,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m447.898 270.303.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3874,26 +3874,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m412.109 251.78 34.681 19.353.22 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m446.086 271.148-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m412.122 252.6-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3906,18 +3906,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m358.865 288.004 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M385.098 288.11c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3938,10 +3938,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m378.495 312.162.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3962,26 +3962,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m342.71 293.647 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m376.686 313.011-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m342.723 294.467-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -3994,18 +3994,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m289.464 329.871 45.492-27.334c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M315.696 329.973c5.713 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4026,10 +4026,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m309.095 354.033.17 9.727-34.633-19.355-.169-9.725 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4050,26 +4050,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m273.68 335.491 34.682 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m307.657 354.855-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m273.693 336.311-66.898 40.197 33.258 18.557 66.897-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.296 41.035-34.683-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4082,18 +4082,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m220.435 371.711 45.492-27.335c4.37 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M246.669 371.813c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4114,10 +4114,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m240.065 395.873.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4138,26 +4138,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m204.918 376.952 34.681 19.353.22 9.725-68.297 41.036-34.682-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m238.895 396.32-33.969-18.956-67.598 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m204.932 377.772-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4170,18 +4170,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m151.671 413.176 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M177.904 413.278c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4202,10 +4202,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m171.302 437.338.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4226,26 +4226,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m439.737 87.667 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m473.715 107.031-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m439.752 88.487-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4258,18 +4258,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m386.493 123.887 45.492-27.335c4.369 2.44 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M412.725 123.993c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4290,10 +4290,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m406.123 148.053.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4314,26 +4314,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m370.337 129.53 34.681 19.353.22 9.725-68.297 41.036-34.682-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m404.311 148.89-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m370.348 130.342-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4346,18 +4346,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m317.09 165.75 45.492-27.335c4.37 2.439 11.406 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M343.324 165.856c5.712 3.186 14.913 3.028 20.549-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4378,10 +4378,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m336.722 189.916.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4402,26 +4402,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m300.935 171.393 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m334.907 190.749-33.97-18.955-67.597 40.616 33.97 18.955 67.597-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m300.946 172.21-66.898 40.196 33.258 18.557 66.897-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4434,18 +4434,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m247.688 207.614 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.665.108 9.103l-45.492 27.335c-4.367-2.437-11.401-2.315-15.711.273l-11.561-6.452c4.305-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M273.92 207.719c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.905-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4466,10 +4466,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m267.32 231.78.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4490,26 +4490,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m231.535 213.264 34.681 19.354.22 9.724-68.296 41.037-34.683-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m265.512 232.632-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m231.549 214.085-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4522,18 +4522,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m178.292 249.489 45.492-27.335c4.369 2.439 11.405 2.314 15.713-.275l11.56 6.451c-4.307 2.589-4.262 6.665.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M204.525 249.594c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4554,10 +4554,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m197.921 273.651.169 9.726-34.632-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4578,26 +4578,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m162.505 255.108 34.682 19.353.22 9.725-68.297 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m196.48 274.464-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m162.518 255.921-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4610,18 +4610,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m109.26 291.325 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M135.494 291.43c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4642,10 +4642,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m128.892 315.494.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4666,26 +4666,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m93.74 296.561 34.682 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m127.715 315.933-33.97-18.955-67.596 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m93.751 297.382-66.898 40.196 33.257 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4698,18 +4698,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m40.496 332.789 45.492-27.334c4.37 2.438 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.263 6.664.107 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M66.729 332.891c5.712 3.187 14.912 3.029 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.55.359-5.636 3.387-5.57 8.716.142 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4730,10 +4730,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m60.125 356.948.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4754,26 +4754,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m476.728 110.389 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m510.7 129.757-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m476.736 111.21-66.898 40.196 33.258 18.557 66.897-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4786,18 +4786,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m423.481 146.61 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.401-2.315-15.711.273l-11.561-6.452c4.305-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M449.714 146.715c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.028-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4818,10 +4818,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m443.112 170.776.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4842,26 +4842,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m407.327 152.26 34.681 19.354.22 9.724-68.296 41.037-34.683-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m441.3 171.621-33.969-18.956-67.597 40.616 33.97 18.955 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m407.339 153.077-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4874,18 +4874,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m354.081 188.481 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.272l-11.562-6.452c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M380.314 188.586c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.572 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4906,10 +4906,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m373.713 212.647.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4930,26 +4930,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m337.924 194.131 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m371.9 213.503-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m337.936 194.952-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4962,18 +4962,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m284.679 230.352 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M310.912 230.458c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.388-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -4994,10 +4994,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m304.309 254.518.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5018,26 +5018,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m268.523 235.999 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m302.498 255.359-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m268.536 236.819-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5050,18 +5050,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m215.279 272.219 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M241.51 272.325c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5082,10 +5082,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m234.908 296.385.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5106,26 +5106,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m199.494 277.831 34.681 19.353.22 9.725-68.296 41.036-34.683-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m233.47 297.203-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m199.507 278.651-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5138,18 +5138,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m146.249 314.051 45.492-27.335c4.369 2.439 11.405 2.314 15.713-.274l11.561 6.45c-4.308 2.589-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M172.483 314.153c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5170,10 +5170,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m165.879 338.217.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5194,26 +5194,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m130.73 319.299 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m164.707 338.66-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m130.744 320.116-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5226,18 +5226,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m77.484 355.524 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.334c-4.368-2.437-11.4-2.314-15.711.273l-11.561-6.452c4.305-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M103.718 355.626c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5258,10 +5258,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m97.116 379.69.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5282,26 +5282,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m513.695 132.108 34.681 19.353.22 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m547.67 151.472-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m513.707 132.928-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5314,18 +5314,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m460.452 168.328 45.492-27.334c4.369 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.107 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M486.685 168.438c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5346,10 +5346,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m480.081 192.494.169 9.727-34.632-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5370,26 +5370,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m444.297 173.975 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.298-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m478.274 193.339-33.97-18.955L376.707 215l33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m444.31 174.796-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035L376 215.015l68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5402,18 +5402,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m391.052 210.2 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M417.282 210.301c5.713 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5434,10 +5434,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m410.682 234.362.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5458,26 +5458,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m374.896 215.846 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m408.873 235.214-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m374.909 216.667-66.898 40.196 33.257 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5490,18 +5490,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m321.651 252.071 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.334c-4.368-2.437-11.401-2.315-15.711.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M347.882 252.168c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.914-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5522,10 +5522,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m341.282 276.229.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5546,26 +5546,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m305.495 257.713 34.681 19.354.22 9.725-68.296 41.036-34.683-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="M339.469 277.074 305.5 258.118l-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m305.506 258.526-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5578,18 +5578,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m252.249 293.93 45.492-27.335c4.369 2.439 11.405 2.314 15.713-.274l11.561 6.45c-4.308 2.589-4.263 6.665.107 9.104L279.63 309.21c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M278.482 294.04c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.388-5.572 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5610,10 +5610,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m271.88 318.1.17 9.727-34.633-19.356-.169-9.724L271.88 318.1Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5634,26 +5634,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m236.463 299.549 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m270.44 318.914-33.969-18.956-67.598 40.616 33.97 18.955 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m236.479 300.37-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5666,18 +5666,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m183.218 335.774 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104L210.6 351.053c-4.367-2.437-11.4-2.314-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M209.452 335.876c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5698,10 +5698,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m202.849 359.936.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5722,26 +5722,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m167.704 341.014 34.681 19.354.22 9.724-68.296 41.037-34.683-19.355-.22-9.723 68.298-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m201.68 360.382-33.969-18.955-67.597 40.616 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m167.716 341.831-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5754,18 +5754,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m114.458 377.242 45.492-27.334c4.369 2.439 11.405 2.314 15.713-.275l11.56 6.451c-4.307 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M140.691 377.34c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.028-20.549.358-5.637 3.387-5.572 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5786,10 +5786,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m134.088 401.401.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5810,26 +5810,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m550.667 153.823 34.681 19.353.22 9.725-68.297 41.036-34.682-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m584.639 173.191-33.969-18.956-67.597 40.617 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m550.675 154.643-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5842,18 +5842,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m497.42 190.051 45.491-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M523.652 190.149c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5874,10 +5874,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m517.05 214.209.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5898,26 +5898,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m481.263 195.694 34.682 19.353.22 9.725-68.297 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m515.24 215.054-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m481.277 196.507-66.898 40.196 33.258 18.557 66.897-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5930,18 +5930,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m428.018 231.914 45.492-27.334c4.37 2.438 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103L455.4 247.194c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M454.251 232.02c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5962,10 +5962,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m447.65 256.08.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -5986,26 +5986,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m411.863 237.561 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m445.838 256.925-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m411.874 238.378-66.898 40.196 33.257 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6018,18 +6018,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m358.617 273.782 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.107 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M384.85 273.887c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.571-8.718-.141-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6050,10 +6050,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m378.248 297.948.169 9.726-34.632-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6074,26 +6074,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m342.463 279.432 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m376.441 298.8-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m342.477 280.253-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6106,18 +6106,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m289.218 315.653 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104L316.6 330.932c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M315.452 315.762c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6138,10 +6138,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m308.848 339.819.17 9.726-34.633-19.355-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6162,26 +6162,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m273.434 321.268 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m307.408 340.624-33.97-18.955-67.597 40.616 33.97 18.955 67.597-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m273.445 322.081-66.898 40.196 33.258 18.558 66.897-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6194,18 +6194,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m220.188 357.489 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.665.108 9.103l-45.492 27.335c-4.367-2.437-11.401-2.315-15.711.273l-11.561-6.452c4.305-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M246.422 357.59c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.028-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6226,10 +6226,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m239.821 381.655.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6250,26 +6250,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m204.669 362.729 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m238.644 382.097-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m204.681 363.55-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6282,18 +6282,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m151.424 398.953 45.492-27.334c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M177.657 399.055c5.713 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6314,10 +6314,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m171.053 423.112.17 9.726-34.633-19.355-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6338,26 +6338,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m439.488 73.436 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="M473.464 92.804 439.495 73.85l-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m439.501 74.257-66.898 40.196 33.257 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6370,18 +6370,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m386.246 109.664 45.492-27.335c4.369 2.44 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M412.479 109.77c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6402,10 +6402,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m405.879 133.83.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6426,26 +6426,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m370.088 115.303 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m404.064 134.671-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m370.1 116.124-66.899 40.196 33.258 18.558 66.898-40.196-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6458,18 +6458,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m316.842 151.524 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M343.074 151.629c5.712 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6490,10 +6490,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m336.472 175.69.17 9.726-34.633-19.355-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6514,26 +6514,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m300.689 157.174 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m334.663 176.542-33.969-18.955-67.597 40.616 33.97 18.955 67.596-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m300.699 157.991-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6546,18 +6546,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m247.442 193.391 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.335c-4.368-2.438-11.401-2.315-15.711.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M273.676 193.501c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6578,10 +6578,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m267.075 217.561.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6602,26 +6602,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m231.288 199.038 34.681 19.353.22 9.725-68.296 41.036-34.683-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m265.263 218.402-33.969-18.956-67.597 40.617 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m231.3 199.854-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6634,18 +6634,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m178.042 235.258 45.492-27.335c4.369 2.439 11.405 2.314 15.713-.274l11.56 6.45c-4.307 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M204.275 235.364c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6666,10 +6666,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m197.672 259.424.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6690,26 +6690,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m162.255 240.874 34.682 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m196.235 260.242-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m162.273 241.69-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6722,18 +6722,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m109.012 277.094 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M135.244 277.196c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6754,10 +6754,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m128.643 301.256.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6778,26 +6778,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m93.495 282.338 34.681 19.354.22 9.725L60.1 352.453l-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="M127.47 301.699 93.5 282.743 25.905 323.36l33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m93.507 283.151-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6810,18 +6810,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m40.249 318.563 45.491-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.561 6.45c-4.308 2.589-4.263 6.665.107 9.104L67.63 333.843c-4.367-2.438-11.4-2.315-15.71.272l-11.562-6.452c4.306-2.59 4.258-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M66.482 318.665c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.636 3.388-5.57 8.717.142 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6842,10 +6842,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m59.88 342.725.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6866,26 +6866,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m476.478 96.174 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m510.454 115.542-33.969-18.955-67.597 40.616 33.97 18.955 67.596-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m476.491 96.995-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.56Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6898,18 +6898,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m423.234 132.395 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.335c-4.368-2.438-11.401-2.315-15.711.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M449.466 132.501c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.914-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6930,10 +6930,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m442.864 156.561.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6954,26 +6954,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m407.076 138.045 34.681 19.354.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m441.051 157.402-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m407.087 138.858-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -6986,18 +6986,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m353.83 174.258 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M380.064 174.368c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7018,10 +7018,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m373.463 198.428.17 9.727L339 188.799l-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7042,26 +7042,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m337.676 179.909 34.682 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m371.651 199.265-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m337.689 180.721-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7074,18 +7074,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m284.43 216.125 45.492-27.335c4.37 2.439 11.406 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M310.663 216.235c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7106,10 +7106,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m304.061 240.295.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7130,26 +7130,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m268.274 221.772 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m302.25 241.144-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m268.286 222.596-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7162,18 +7162,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m215.03 258 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M241.263 258.102c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.571-8.717-.141-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7194,10 +7194,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m234.662 282.162.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7218,26 +7218,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m199.245 263.612 34.681 19.353.22 9.725-68.296 41.036-34.683-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m233.221 282.972-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m199.259 264.425-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7250,18 +7250,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m145.999 299.832 45.492-27.335c4.369 2.439 11.405 2.315 15.713-.274l11.561 6.45c-4.308 2.59-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M172.233 299.93c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7282,10 +7282,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m165.631 323.998.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7306,26 +7306,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m130.479 305.073 34.682 19.353.219 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m164.455 324.441-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="M130.491 305.893 63.593 346.09l33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7338,18 +7338,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m77.235 341.297 45.492-27.335c4.37 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.335c-4.368-2.438-11.4-2.315-15.711.273l-11.562-6.452c4.306-2.591 4.258-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M103.47 341.403c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7370,10 +7370,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m96.865 365.459.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7394,26 +7394,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m513.447 117.885 34.681 19.354.22 9.724L480.052 188l-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m547.423 137.249-33.969-18.955-67.597 40.616 33.97 18.955 67.596-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m513.46 118.702-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7426,18 +7426,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m460.201 154.106 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.272l-11.562-6.452c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M486.434 154.211c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7458,10 +7458,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m479.833 178.272.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7482,26 +7482,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m444.047 159.753 34.681 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.298-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m478.022 179.124-33.969-18.955-67.598 40.616 33.97 18.955 67.597-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m444.058 160.573-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7514,18 +7514,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m390.802 195.973 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M417.035 196.079c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7546,10 +7546,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m410.433 220.143.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7570,26 +7570,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m374.645 201.62 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m408.622 220.988-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m374.659 202.44-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7602,18 +7602,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m321.401 237.84 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.335c-4.368-2.438-11.401-2.315-15.711.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M347.635 237.95c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7634,10 +7634,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m341.032 262.006.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7658,26 +7658,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m305.244 243.487 34.681 19.353.22 9.725-68.296 41.036-34.683-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m339.22 262.851-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m305.258 244.307-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7690,18 +7690,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m252 279.707 45.492-27.335c4.369 2.439 11.405 2.315 15.713-.274l11.56 6.45c-4.307 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M278.23 279.809c5.712 3.187 14.912 3.029 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7722,10 +7722,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m271.629 303.873.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7746,26 +7746,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m236.213 285.327 34.682 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m270.191 304.699-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m236.23 286.147-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7778,18 +7778,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m182.97 321.551 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M209.203 321.653c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7810,10 +7810,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m202.6 345.713.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7834,26 +7834,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m167.452 326.792 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m201.427 346.144-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m167.463 327.604-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7866,18 +7866,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m114.206 363.012 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.263 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M140.439 363.118c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7898,10 +7898,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m133.836 387.178.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7922,26 +7922,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m550.416 139.604 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m584.393 158.972-33.969-18.955-67.597 40.616 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m550.43 140.425-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7954,18 +7954,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m497.172 175.828 45.492-27.334c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M523.406 175.934c5.713 3.187 14.913 3.029 20.549-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -7986,10 +7986,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m516.801 199.991.17 9.726-34.633-19.355-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8010,26 +8010,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m481.014 181.471 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m514.991 200.839-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m481.028 182.292-66.898 40.196 33.258 18.557 66.897-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8042,18 +8042,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m427.769 217.696 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M454.001 217.797c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8074,10 +8074,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m447.4 241.858.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8098,26 +8098,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m411.616 223.346 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m445.59 242.703-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m411.626 224.159-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8130,18 +8130,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m358.369 259.559 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M384.602 259.672c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8162,10 +8162,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m378.001 283.733.169 9.726-34.632-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8186,26 +8186,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m342.212 265.202 34.681 19.353.22 9.725-68.297 41.036-34.682-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m376.188 284.57-33.969-18.956-67.598 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m342.225 266.018-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8218,18 +8218,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m288.965 301.422 45.492-27.335c4.37 2.439 11.406 2.315 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M315.198 301.528c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8250,10 +8250,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m308.598 325.588.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8274,26 +8274,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m273.183 307.042 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m307.159 326.41-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="M273.198 307.862 206.3 348.058l33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8306,18 +8306,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m219.939 343.27 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.401-2.315-15.711.273l-11.561-6.453c4.305-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M246.173 343.368c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8338,10 +8338,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m239.569 367.428.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8362,26 +8362,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m204.424 348.51 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m238.396 367.867-33.969-18.956-67.598 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m204.435 349.327-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8394,18 +8394,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m151.176 384.735 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M177.409 384.833c5.712 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.388-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8426,10 +8426,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m170.808 408.897.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8450,26 +8450,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m441.274 59.17 34.682 19.354.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m475.248 78.535-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m441.285 59.987-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8482,18 +8482,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="M388.028 95.395 433.52 68.06c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M414.262 95.5c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.388-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8514,10 +8514,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m407.661 119.561.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8538,26 +8538,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m371.874 101.045 34.681 19.354.22 9.725-68.296 41.036-34.683-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m405.849 120.414-33.969-18.956-67.597 40.616 33.969 18.955 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m371.886 101.866-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8570,18 +8570,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m318.63 137.266 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.258-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M344.864 137.376c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.572 8.717.14 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8602,10 +8602,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m338.26 161.432.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8626,26 +8626,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m302.474 142.913 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m336.45 162.281-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m302.485 143.733-66.898 40.196 33.258 18.558 66.897-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.296 41.035-34.683-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8658,18 +8658,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m249.228 179.137 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.401-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M275.461 179.239c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8690,10 +8690,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m268.86 203.299.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8714,26 +8714,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m233.073 184.78 34.681 19.353.22 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m267.051 204.148-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m233.088 185.6-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8746,18 +8746,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m179.829 221 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.263 6.665.107 9.104L207.21 236.28c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M206.059 221.106c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8778,10 +8778,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m199.458 245.166.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8802,26 +8802,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m164.044 226.616 34.681 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.298-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m198.019 245.984-33.969-18.956-67.598 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m164.055 227.436-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8834,18 +8834,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m110.798 262.84 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104L138.18 278.12c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M137.031 262.938c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8866,10 +8866,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m130.431 287.006.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8890,26 +8890,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m95.28 268.081 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m129.255 287.449-33.97-18.956L27.69 309.11l33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m95.291 268.897-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8922,18 +8922,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m42.035 304.305 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M68.269 304.407c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.636 3.387-5.57 8.716.142 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8954,10 +8954,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m61.665 328.467.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -8978,26 +8978,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m478.262 81.909 34.682 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m512.238 101.277-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m478.274 82.73-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9010,18 +9010,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m425.016 118.133 45.492-27.335c4.37 2.44 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M451.249 118.239c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9042,10 +9042,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m444.647 142.295.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9066,26 +9066,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m408.859 123.776 34.681 19.353.22 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m442.835 143.136-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m408.873 124.596-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9098,18 +9098,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m355.616 160 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M381.85 160.11c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9130,10 +9130,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m375.248 184.162.169 9.727-34.632-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9154,26 +9154,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m339.461 165.639 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m373.437 185.007-33.969-18.955-67.598 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m339.473 166.456-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9186,18 +9186,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m286.214 201.86 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M312.448 201.965c5.713 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.028-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9218,10 +9218,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m305.846 226.026.17 9.726-34.633-19.355-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9242,26 +9242,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m270.059 207.51 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m304.033 226.874-33.97-18.955-67.597 40.616 33.97 18.955 67.597-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m270.07 208.327-66.898 40.196 33.258 18.558 66.897-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.296 41.035-34.683-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9274,18 +9274,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m216.812 243.731 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.401-2.315-15.711.272l-11.561-6.452c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M243.046 243.836c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9306,10 +9306,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m236.445 267.897.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9330,26 +9330,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m201.027 249.342 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m235.005 268.71-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m201.042 250.159-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9362,18 +9362,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m147.781 285.563 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.272l-11.562-6.452c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M174.017 285.668c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9394,10 +9394,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m167.413 309.729.169 9.727L132.95 300.1l-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9418,26 +9418,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m132.266 290.815 34.682 19.353.219 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m166.242 310.175-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="M132.278 291.628 65.38 331.824l33.258 18.557 66.897-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9450,18 +9450,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m79.02 327.039 45.491-27.334c4.37 2.438 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.305-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M105.254 327.141c5.712 3.187 14.912 3.029 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9482,10 +9482,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m98.652 351.198.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9506,26 +9506,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m515.23 103.628 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m549.206 122.992-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m515.243 104.444-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9538,18 +9538,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m461.986 139.848 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M488.217 139.95c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9570,10 +9570,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m481.615 164.01.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9594,26 +9594,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m445.831 145.491 34.681 19.353.22 9.725-68.296 41.036-34.683-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m479.805 164.847-33.969-18.955-67.597 40.616 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="M445.841 146.303 378.942 186.5l33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9626,18 +9626,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m392.583 181.707 45.492-27.335c4.369 2.439 11.405 2.315 15.713-.274l11.56 6.45c-4.307 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M418.817 181.817c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9658,10 +9658,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m412.214 205.877.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9682,26 +9682,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m376.429 187.354 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m410.406 206.71-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m376.442 188.167-66.898 40.196 33.258 18.557 66.898-40.195-33.258-18.558Zm-.012-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9714,18 +9714,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m323.184 223.575 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M349.416 223.68c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.905-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9746,10 +9746,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m342.815 247.741.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9770,26 +9770,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m307.027 229.221 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m341.001 248.589-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m307.038 230.042-66.898 40.196 33.257 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9802,18 +9802,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m253.783 265.446 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.334c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M280.015 265.551c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.571-8.718-.141-11.905-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9834,10 +9834,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m273.415 289.612.169 9.726-34.632-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9858,26 +9858,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m237.998 271.061 34.681 19.354.22 9.724-68.296 41.037-34.683-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m271.971 290.417-33.969-18.955-67.597 40.616 33.97 18.955 67.596-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m238.013 271.874-66.899 40.196 33.258 18.558 66.898-40.196-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352L238 271.056Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9890,18 +9890,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m184.752 307.278 45.491-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.307 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M210.985 307.379c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.572 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9922,10 +9922,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m204.384 331.448.17 9.726-34.633-19.355-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9946,26 +9946,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m169.232 312.522 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m203.208 331.89-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m169.245 313.342-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -9978,18 +9978,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m115.988 348.754 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M142.221 348.856c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.571-8.717-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10010,10 +10010,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m135.618 372.908.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10034,26 +10034,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m552.2 125.338 34.681 19.354.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m586.174 144.695-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m552.212 126.151-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10066,18 +10066,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m498.953 161.555 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M525.187 161.661c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10098,10 +10098,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m518.586 185.721.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10122,26 +10122,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m482.799 167.206 34.682 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m516.776 186.574-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m482.814 168.026-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10154,18 +10154,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m429.555 203.426 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M455.788 203.536c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10186,10 +10186,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m449.184 227.592.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10210,26 +10210,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m413.399 209.073 34.682 19.353.219 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m447.377 228.445-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m413.413 209.893-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10242,18 +10242,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m360.155 245.297 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M386.386 245.399c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.572-8.717-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10274,10 +10274,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m379.785 269.459.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10298,26 +10298,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m343.996 250.94 34.681 19.353.22 9.725-68.296 41.036-34.683-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m377.973 270.3-33.969-18.955-67.597 40.616 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m344.01 251.76-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.354-68.296 41.035-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10330,18 +10330,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m290.752 287.16 45.491-27.334c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.307 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M316.984 287.266c5.712 3.187 14.912 3.029 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10362,10 +10362,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m310.382 311.326.17 9.727-34.633-19.355-.169-9.725 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10386,26 +10386,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m274.968 292.78 34.682 19.353.22 9.725-68.297 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m308.945 312.148-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m274.982 293.596-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10418,18 +10418,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m221.724 329 45.492-27.335c4.37 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M247.957 329.102c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10450,10 +10450,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m241.353 353.162.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10474,26 +10474,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m206.206 334.245 34.681 19.353.22 9.725-68.296 41.036-34.683-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m240.182 353.609-33.969-18.956-67.597 40.617 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m206.22 335.065-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10506,18 +10506,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m152.958 370.473 45.492-27.335c4.369 2.439 11.405 2.314 15.713-.274l11.56 6.45c-4.307 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M179.192 370.571c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10538,10 +10538,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m172.59 394.631.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10562,26 +10562,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m441.025 44.944 34.681 19.353.22 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m475.002 64.312-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m441.039 45.764-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817L475.708 64.3l-68.297 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10594,18 +10594,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m387.782 81.168 45.492-27.335c4.369 2.44 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M414.013 81.27c5.712 3.187 14.912 3.029 20.549-.359 5.634-3.385 5.571-8.717-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10626,10 +10626,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m407.411 105.33.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10650,26 +10650,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m371.625 86.815 34.681 19.353.22 9.725-68.297 41.036-34.682-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="M405.6 106.175 371.631 87.22l-67.597 40.616 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m371.636 87.628-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10682,18 +10682,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m318.379 123.032 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M344.612 123.141c5.713 3.187 14.913 3.029 20.549-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10714,10 +10714,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m338.011 147.201.17 9.727-34.633-19.355-.169-9.725 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10738,26 +10738,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m302.222 128.678 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m336.195 148.035-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m302.234 129.495-66.898 40.196 33.258 18.558 66.898-40.195-33.258-18.559Zm-.012-.818 34.681 19.354-68.296 41.035-34.683-19.352 68.298-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10770,18 +10770,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m248.975 164.895 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M275.208 165.004c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10802,10 +10802,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m268.607 189.065.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10826,26 +10826,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m232.821 170.545 34.681 19.354.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m266.798 189.917-33.969-18.955-67.597 40.616 33.97 18.955 67.596-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m232.836 171.366-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10858,18 +10858,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m179.578 206.774 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M205.809 206.876c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10890,10 +10890,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m199.208 230.932.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10914,26 +10914,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m163.793 212.381 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.298-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m197.765 231.746-33.969-18.956-67.597 40.616 33.969 18.955 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m163.805 213.198-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10946,18 +10946,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m110.546 248.598 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.258-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M136.78 248.7c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -10978,10 +10978,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m130.178 272.768.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11002,26 +11002,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m95.026 253.838 34.681 19.354.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m129 273.207-33.969-18.956-67.597 40.616 33.97 18.955L129 273.207Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="M95.038 254.659 28.14 294.855l33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.682 19.354L61.41 314.23l-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11034,18 +11034,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m41.782 290.067 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M68.015 290.172c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.571-8.718-.14-11.904-5.713-3.188-14.916-3.027-20.55.358-5.637 3.387-5.571 8.717.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11066,10 +11066,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m61.41 314.225.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11090,26 +11090,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m478.013 67.678 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m511.989 87.03-33.97-18.955-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m478.025 68.49-66.899 40.197 33.258 18.558 66.898-40.195-33.257-18.56Zm-.013-.816 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11122,18 +11122,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m424.766 103.891 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M451 104.004c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.028-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11154,10 +11154,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m444.398 128.057.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11178,26 +11178,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m408.61 109.538 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m442.585 128.898-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m408.624 110.354-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11210,18 +11210,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m355.365 145.758 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M381.597 145.864c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11242,10 +11242,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m374.996 169.924.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11266,26 +11266,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m339.211 151.409 34.681 19.353.22 9.725-68.297 41.036-34.682-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m373.184 170.777-33.969-18.956-67.597 40.617 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m339.221 152.233-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11298,18 +11298,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m285.966 187.633 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M312.199 187.743c5.712 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11330,10 +11330,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m305.595 211.795.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11354,26 +11354,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m269.809 193.276 34.682 19.353.219 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m303.785 212.644-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m269.822 194.096-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11386,18 +11386,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m216.565 229.5 45.492-27.335c4.37 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.401-2.315-15.711.273l-11.561-6.452c4.305-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M242.795 229.602c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11418,10 +11418,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m236.194 253.662.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11442,26 +11442,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m200.781 235.12 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m234.757 254.484-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m200.795 235.94-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11474,18 +11474,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m147.537 271.34 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M173.77 271.446c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11506,10 +11506,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m167.169 295.506.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11530,26 +11530,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m132.013 276.577 34.682 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m165.991 295.945-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m132.029 277.397-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11562,18 +11562,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m78.768 312.801 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M105.003 312.903c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.713-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11594,10 +11594,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m98.4 336.967.17 9.727-34.633-19.356-.17-9.724L98.4 336.967Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11618,26 +11618,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m514.979 89.397 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m548.954 108.761-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m514.991 90.218-66.898 40.196 33.257 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352L514.978 89.4Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11650,18 +11650,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m461.735 125.621 45.492-27.334c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.107 9.103l-45.491 27.335c-4.368-2.438-11.401-2.315-15.711.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M487.967 125.727c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.572-8.717-.141-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11682,10 +11682,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m481.364 149.783.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11706,26 +11706,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m445.579 131.264 34.681 19.354.22 9.724-68.296 41.037-34.683-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m479.556 150.628-33.969-18.955-67.597 40.616 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m445.593 132.085-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11738,18 +11738,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m392.337 167.489 45.491-27.335c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.665.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M418.567 167.586c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.572 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11770,10 +11770,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m411.964 191.643.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11794,26 +11794,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m376.177 173.131 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m410.155 192.499-33.97-18.955-67.597 40.616 33.97 18.955 67.597-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m376.192 173.952-66.898 40.196 33.258 18.558 66.898-40.195-33.258-18.559Zm-.012-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11826,18 +11826,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m322.934 209.352 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M349.166 209.458c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.388-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11858,10 +11858,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m342.565 233.518.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11882,26 +11882,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m306.778 214.999 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m340.753 234.359-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m306.788 215.811-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11914,18 +11914,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m253.532 251.211 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M279.765 251.325c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11946,10 +11946,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m273.164 275.381.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -11970,26 +11970,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m237.748 256.835 34.681 19.353.22 9.725-68.296 41.036-34.683-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m271.723 276.203-33.969-18.956-67.597 40.617 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m237.761 257.655-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12002,18 +12002,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m184.503 293.055 45.491-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.307 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M210.737 293.161c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12034,10 +12034,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m204.132 317.225.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12058,26 +12058,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m168.986 298.303 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m202.96 317.664-33.969-18.956-67.597 40.616 33.97 18.955 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m168.997 299.116-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12090,18 +12090,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m115.74 334.524 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M141.973 334.626c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12122,10 +12122,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m135.371 358.69.169 9.726-34.632-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12146,26 +12146,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m440.793 31.74 34.681 19.354.22 9.725-68.297 41.036L372.715 82.5l-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m474.771 51.109-33.969-18.956-67.598 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m440.808 32.561-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12178,18 +12178,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m387.549 67.965 45.492-27.335c4.37 2.44 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M413.784 68.075c5.712 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12210,10 +12210,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m407.182 92.135.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12234,26 +12234,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m371.393 73.608 34.682 19.353.219 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m405.366 92.98-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m371.403 74.432-66.898 40.197 33.258 18.557 66.897-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.296 41.036-34.683-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12266,18 +12266,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m318.148 109.832 45.492-27.334c4.37 2.438 11.405 2.314 15.714-.275l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.401-2.315-15.711.273l-11.561-6.452c4.305-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M344.379 109.934c5.712 3.187 14.912 3.029 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12298,10 +12298,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m337.777 133.998.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12322,26 +12322,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m301.995 115.483 34.681 19.353.22 9.725-68.296 41.036-34.683-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m335.971 134.847-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m302.007 116.3-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12354,18 +12354,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m248.749 151.7 45.492-27.335c4.369 2.439 11.405 2.314 15.713-.275l11.561 6.451c-4.308 2.589-4.263 6.664.107 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M274.982 151.809c5.712 3.187 14.912 3.029 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12386,10 +12386,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m268.38 175.869.17 9.727-34.633-19.355-.169-9.725 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12410,26 +12410,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m232.591 157.35 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m266.567 176.71-33.97-18.955L165 198.371l33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m232.606 158.159-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12442,18 +12442,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m179.345 193.567 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.334c-4.367-2.437-11.4-2.314-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M205.578 193.672c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12474,10 +12474,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m198.977 217.733.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12498,26 +12498,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m163.562 199.178 34.682 19.354.219 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m197.541 218.55-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="M163.578 199.999 96.68 240.195l33.257 18.558 66.898-40.196-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12530,18 +12530,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m110.319 235.403 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.334c-4.368-2.437-11.401-2.315-15.711.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M136.552 235.504c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12562,10 +12562,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m129.949 259.565.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12586,26 +12586,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m94.8 240.643 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723L94.8 240.643Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m128.773 260.007-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m94.81 241.46-66.898 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.012-.818 34.681 19.354-68.296 41.035L26.5 281.679l68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12618,18 +12618,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m41.552 276.867 45.492-27.334c4.37 2.439 11.406 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M67.785 276.969c5.712 3.187 14.913 3.029 20.55-.358 5.634-3.386 5.57-8.718-.141-11.905-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.57 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12650,10 +12650,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m61.183 301.033.17 9.727-34.633-19.355-.17-9.725 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12674,26 +12674,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m477.781 54.471 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="M511.759 73.843 477.79 54.888l-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m477.795 55.292-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12706,18 +12706,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m424.537 90.696 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M450.767 90.797c5.712 3.187 14.912 3.029 20.548-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.028-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12738,10 +12738,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m444.165 114.858.169 9.726-34.632-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12762,26 +12762,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m408.379 96.342 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.219-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m442.353 115.699-33.969-18.956-67.598 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m408.39 97.159-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.56Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12794,18 +12794,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m355.131 132.559 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.453c4.306-2.59 4.257-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M381.365 132.665c5.713 3.186 14.913 3.028 20.549-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.358-5.637 3.388-5.571 8.717.141 11.905Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12826,10 +12826,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m374.763 156.721.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12850,26 +12850,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m338.981 138.206 34.682 19.353.219 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m372.955 157.57-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m338.991 139.022-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12882,18 +12882,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m285.734 174.422 45.492-27.335c4.37 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.491 27.335c-4.368-2.438-11.401-2.315-15.711.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M311.968 174.532c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.386 5.572-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12914,10 +12914,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m305.366 198.592.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12938,26 +12938,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m269.579 180.069 34.681 19.353.22 9.725-68.296 41.036-34.683-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m303.552 199.425-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m269.592 180.882-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -12970,18 +12970,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m216.332 216.285 45.492-27.334c4.369 2.439 11.405 2.314 15.713-.275l11.561 6.451c-4.308 2.589-4.263 6.664.107 9.103l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M242.565 216.395c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13002,10 +13002,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m235.963 240.455.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13026,26 +13026,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m200.547 221.909 34.681 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.298-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m234.522 241.273-33.969-18.956-67.598 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m200.558 222.725-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13058,18 +13058,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m147.3 258.129 45.492-27.335c4.37 2.439 11.406 2.315 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M173.534 258.227c5.712 3.186 14.913 3.028 20.549-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13090,10 +13090,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m166.932 282.295.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13114,26 +13114,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m131.782 263.374 34.681 19.353.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m165.754 282.73-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m131.795 264.186-66.898 40.197 33.257 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13146,18 +13146,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m78.537 299.598 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.453c4.306-2.59 4.258-6.664-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M104.771 299.7c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13178,10 +13178,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m98.168 323.76.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13202,26 +13202,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m440.563 18.53 34.682 19.353.219 9.725-68.296 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m474.538 37.89-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m440.574 19.346-66.898 40.197L406.933 78.1l66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13234,18 +13234,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m387.318 54.746 45.492-27.335c4.37 2.44 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.107 9.104L414.7 70.026c-4.368-2.438-11.401-2.315-15.711.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M413.551 54.856c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.572-8.717-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13266,10 +13266,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m406.951 78.916.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13290,26 +13290,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m371.166 60.405 34.681 19.353.22 9.725-68.297 41.036-34.682-19.354-.219-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="M405.138 79.765 371.169 60.81l-67.597 40.616 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m371.175 61.218-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352L371.162 60.4Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13322,18 +13322,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m317.918 96.621 45.491-27.334c4.37 2.438 11.406 2.314 15.714-.275l11.56 6.45c-4.307 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M344.152 96.731c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.385 5.572-8.717-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13354,10 +13354,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m337.55 120.791.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13378,26 +13378,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m301.762 102.268 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m335.739 121.636-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m301.775 103.089-66.899 40.196 33.258 18.557 66.898-40.195-33.257-18.558Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13410,18 +13410,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m248.517 138.489 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.665.108 9.103l-45.492 27.335c-4.367-2.437-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M274.751 138.598c5.712 3.187 14.913 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.905-5.713-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13442,10 +13442,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m268.148 162.655.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13466,26 +13466,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m232.361 144.135 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m266.336 163.499-33.969-18.955-67.597 40.616 33.97 18.955 67.596-40.616Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m232.374 144.956-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13498,18 +13498,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m179.117 180.36 45.492-27.335c4.369 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.334c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M205.347 180.461c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13530,10 +13530,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m198.746 204.522.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13554,26 +13554,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m163.333 185.971 34.681 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.298-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m197.307 205.328-33.969-18.956-67.597 40.617 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m163.347 186.788-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13586,18 +13586,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m110.087 222.188 45.491-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.272l-11.561-6.452c4.306-2.59 4.258-6.664-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M136.32 222.293c5.713 3.187 14.913 3.029 20.549-.358 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.358-5.637 3.387-5.572 8.717.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13618,10 +13618,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m129.719 246.358.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13642,26 +13642,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m94.569 227.436 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m128.546 246.804-33.969-18.955-67.597 40.616 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m94.582 228.257-66.898 40.196L60.94 287.01l66.898-40.195-33.257-18.558Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13674,18 +13674,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m41.322 263.66 45.492-27.334c4.37 2.439 11.405 2.314 15.714-.275l11.56 6.451c-4.308 2.589-4.262 6.664.107 9.103L68.703 278.94c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M67.555 263.762c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.572-8.718-.14-11.905-5.713-3.187-14.916-3.027-20.55.359-5.637 3.387-5.571 8.717.14 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13706,10 +13706,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m60.954 287.823.17 9.726-34.633-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13730,26 +13730,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m477.553 41.26 34.682 19.354.22 9.724-68.297 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m511.526 60.617-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m477.565 42.073-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.56Zm-.013-.818 34.681 19.354-68.296 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13762,18 +13762,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m424.306 77.48 45.492-27.334c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104L451.688 92.76c-4.367-2.437-11.4-2.314-15.711.273l-11.561-6.452c4.306-2.59 4.257-6.665-.11-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M450.539 77.587c5.712 3.186 14.913 3.028 20.549-.36 5.634-3.385 5.572-8.717-.14-11.903-5.712-3.188-14.915-3.027-20.55.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13794,10 +13794,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m443.938 101.647.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13818,26 +13818,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m408.152 83.131 34.681 19.354.22 9.724-68.296 41.037-34.682-19.355-.22-9.723 68.297-41.037Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="M442.126 102.496 408.157 83.54l-67.597 40.616 33.97 18.955 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m408.163 83.952-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.56Zm-.013-.818 34.682 19.354-68.297 41.035-34.682-19.352 68.297-41.037Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13850,18 +13850,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="M354.908 119.36 400.4 92.025c4.369 2.439 11.405 2.314 15.714-.275l11.56 6.45c-4.308 2.59-4.262 6.666.107 9.105l-45.492 27.334c-4.367-2.437-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.59 4.258-6.665-.109-9.1Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M381.141 119.465c5.712 3.187 14.912 3.029 20.549-.358 5.634-3.386 5.571-8.718-.141-11.904-5.712-3.188-14.915-3.028-20.549.358-5.637 3.387-5.571 8.717.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13882,10 +13882,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m374.541 143.526.169 9.726-34.632-19.355-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13906,26 +13906,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m338.749 124.999 34.681 19.353.22 9.725-68.296 41.036-34.683-19.355-.219-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m372.724 144.363-33.969-18.956-67.597 40.617 33.969 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m338.762 125.819-66.899 40.196 33.258 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13938,18 +13938,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m285.505 161.219 45.492-27.335c4.37 2.439 11.406 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.258-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M311.735 161.325c5.712 3.186 14.912 3.028 20.548-.359 5.635-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.572 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13970,10 +13970,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m305.133 185.377.17 9.727-34.633-19.356-.169-9.724 34.632 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -13994,26 +13994,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m269.346 166.862 34.682 19.353.22 9.725-68.297 41.036-34.682-19.354-.22-9.724 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m303.322 186.226-33.97-18.955-67.597 40.616 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m269.358 167.678-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -14026,18 +14026,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m216.1 203.082 45.492-27.335c4.37 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.59-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M242.333 203.188c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.385 5.572-8.717-.14-11.904-5.712-3.187-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -14058,10 +14058,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m235.733 227.248.17 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -14082,26 +14082,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="M200.319 208.702 235 228.055l.22 9.725-68.296 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m234.296 228.07-33.969-18.956-67.597 40.617 33.97 18.954 67.596-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m200.333 209.522-66.898 40.196 33.257 18.558 66.898-40.195-33.257-18.559Zm-.013-.817 34.682 19.353-68.297 41.035-34.682-19.352 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -14114,18 +14114,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m147.074 244.922 45.492-27.335c4.369 2.439 11.405 2.315 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.107 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.71.273l-11.562-6.452c4.306-2.591 4.258-6.665-.109-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M173.308 245.024c5.712 3.186 14.912 3.028 20.549-.359 5.634-3.385 5.571-8.717-.141-11.904-5.712-3.188-14.915-3.027-20.549.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -14146,10 +14146,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m166.706 269.084.169 9.727-34.632-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -14170,26 +14170,26 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="m131.554 250.159 34.682 19.353.22 9.725-68.297 41.036-34.682-19.355-.22-9.723 68.297-41.036Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m165.529 269.523-33.97-18.956-67.597 40.617 33.97 18.954 67.597-40.615Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#679147"
+			fill="#A2948A"
 			d="m131.566 250.971-66.899 40.197 33.258 18.557 66.898-40.195-33.257-18.559Zm-.013-.817 34.681 19.353-68.296 41.036-34.682-19.353 68.297-41.036Z"
 			style={{
-				fill: "#679147",
+				fill: "#A2948A",
 				fillOpacity: 1,
 			}}
 		/>
@@ -14202,18 +14202,18 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m78.308 286.383 45.492-27.335c4.37 2.439 11.405 2.314 15.714-.274l11.56 6.45c-4.308 2.589-4.262 6.665.108 9.104l-45.492 27.335c-4.367-2.438-11.4-2.315-15.711.273l-11.561-6.452c4.306-2.591 4.257-6.665-.11-9.101Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#BFE089"
+			fill="#8F7862"
 			d="M104.541 286.485c5.712 3.186 14.913 3.028 20.549-.359 5.634-3.386 5.572-8.718-.14-11.904-5.712-3.188-14.915-3.027-20.55.359-5.637 3.387-5.571 8.716.141 11.904Z"
 			style={{
-				fill: "#bfe089",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -14234,10 +14234,10 @@ const PileOfMoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SV
 			}}
 		/>
 		<path
-			fill="#5C7D2E"
+			fill="#AB9F97"
 			d="m97.94 310.545.169 9.727-34.633-19.356-.17-9.724 34.633 19.353Z"
 			style={{
-				fill: "#5c7d2e",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>

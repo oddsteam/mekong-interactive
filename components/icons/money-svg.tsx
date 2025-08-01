@@ -2,18 +2,18 @@ import * as React from "react";
 const MoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>) => (
 	<svg xmlns="http://www.w3.org/2000/svg" width={40} height={37} fill="none" {...props} viewBox="0 0 40 37">
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="M13.221 9.738.02 17.411 0 21.15l26.529 15.316 13.202-7.673.019-3.74L13.221 9.739Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m.29 17.41 12.93-7.515 26.258 15.16-12.93 7.513L.29 17.41Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
@@ -34,18 +34,18 @@ const MoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGEl
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="m33.931 23.304-17.67-10.202c-1.664.966-4.37.966-6.043 0l-4.4 2.557c1.673.966 1.682 2.533.02 3.5l17.67 10.202c1.662-.966 4.367-.966 6.041 0l4.401-2.558c-1.673-.967-1.681-2.533-.019-3.499Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#669048"
+			fill="##8F7862"
 			d="M23.849 23.52c-2.175 1.264-5.713 1.265-7.902 0-2.189-1.263-2.2-3.313-.026-4.576 2.174-1.264 5.713-1.264 7.902 0 2.19 1.264 2.2 3.313.026 4.577Z"
 			style={{
-				fill: "#669048",
+				fill: "##8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -66,10 +66,10 @@ const MoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGEl
 			}}
 		/>
 		<path
-			fill="#547226"
+			fill="#AB9F97"
 			d="M26.547 32.723v3.74L39.73 28.79v-3.74l-13.183 7.673Z"
 			style={{
-				fill: "#547226",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -90,18 +90,18 @@ const MoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGEl
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="M13.471 4.992.27 12.665l-.019 3.74L26.779 31.72l13.202-7.673.019-3.74L13.471 4.993Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="m.54 12.663 12.93-7.515 26.258 15.16-12.93 7.514L.54 12.663Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
@@ -122,18 +122,18 @@ const MoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGEl
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="M34.181 18.558 16.511 8.355c-1.664.967-4.37.967-6.043 0l-4.4 2.558c1.673.966 1.682 2.533.02 3.5l17.67 10.202c1.662-.966 4.367-.966 6.041 0l4.401-2.558c-1.673-.967-1.681-2.534-.019-3.5Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#669048"
+			fill="##8F7862"
 			d="M24.099 18.775c-2.175 1.263-5.713 1.264-7.902 0s-2.2-3.314-.026-4.577c2.174-1.264 5.713-1.264 7.902 0 2.19 1.264 2.2 3.313.026 4.577Z"
 			style={{
-				fill: "#669048",
+				fill: "##8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -154,10 +154,10 @@ const MoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGEl
 			}}
 		/>
 		<path
-			fill="#547226"
+			fill="#AB9F97"
 			d="M26.797 27.98v3.74l13.183-7.672v-3.74L26.797 27.98Z"
 			style={{
-				fill: "#547226",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
@@ -178,18 +178,18 @@ const MoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGEl
 			}}
 		/>
 		<path
-			fill="#3E6304"
+			fill="#8F7862"
 			d="M13.471 0 .27 7.672l-.019 3.74 26.529 15.316 13.202-7.673.019-3.739L13.471 0Z"
 			style={{
-				fill: "#3e6304",
+				fill: "#8F7862",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#C2D88D"
+			fill="#CCCCCA"
 			d="M.54 7.675 13.47.16l26.258 15.16-12.93 7.514L.54 7.674Z"
 			style={{
-				fill: "#c2d88d",
+				fill: "#CCCCCA",
 				fillOpacity: 1,
 			}}
 		/>
@@ -210,18 +210,18 @@ const MoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGEl
 			}}
 		/>
 		<path
-			fill="#7CAF4A"
+			fill="#AB9F97"
 			d="M34.181 13.566 16.511 3.363c-1.664.967-4.37.966-6.043 0l-4.4 2.557c1.673.967 1.682 2.534.02 3.5l17.67 10.203c1.662-.966 4.367-.966 6.041 0l4.401-2.558c-1.673-.967-1.681-2.534-.019-3.5Z"
 			style={{
-				fill: "#7caf4a",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>
 		<path
-			fill="#669048"
+			fill="##8F7862"
 			d="M24.099 13.783c-2.175 1.263-5.713 1.264-7.902 0s-2.2-3.314-.026-4.577c2.174-1.264 5.713-1.264 7.902 0 2.19 1.264 2.2 3.313.026 4.577Z"
 			style={{
-				fill: "#669048",
+				fill: "##8F7862",
 				fillOpacity: 1,
 			}}
 		/>
@@ -242,10 +242,10 @@ const MoneySvg = (props: React.JSX.IntrinsicAttributes & React.SVGProps<SVGSVGEl
 			}}
 		/>
 		<path
-			fill="#547226"
+			fill="#AB9F97"
 			d="M26.797 22.988v3.74l13.183-7.672v-3.74l-13.183 7.672Z"
 			style={{
-				fill: "#547226",
+				fill: "#AB9F97",
 				fillOpacity: 1,
 			}}
 		/>

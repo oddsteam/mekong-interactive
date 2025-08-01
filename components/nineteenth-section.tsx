@@ -1,55 +1,69 @@
 import MoneySvg from "./icons/money-svg";
 import { useState } from "react";
 import { motion } from "framer-motion";
+import ProgressBar from "./ui/progress-bar";
+import FlagSvg from "./icons/flag-svg";
 
 type SectionData = {
 	budget: string;
+	description: string;
 	location: string;
 	province: string;
+	numberOfProjects: number;
 	LengthOfTheRiverbank: number;
-	budgetPerKm: string;
+	LengthOfCompletedRiverbank: number;
 	numberOfMoney: number;
 };
 
 const sections: SectionData[] = [
 	{
 		budget: "1,675,205,600 บาท",
+		description: "~ 133,147 บาท/เมตร",
 		location: "ตำบลบุฮม, อำเภอเชียงคาน",
 		province: "จังหวัดเลย",
+		numberOfProjects: 20,
 		LengthOfTheRiverbank: 29.63,
-		budgetPerKm: "56,537,482.28 บาท",
+		LengthOfCompletedRiverbank: 13.09,
 		numberOfMoney: 16,
 	},
 	{
 		budget: "1,487,093,500 บาท",
+		description: "~ 130,007.05 บาท/เมตร ",
 		location: "ตำบลหนองเดิ่น, อำเภอบุ่งคล้า",
 		province: "จังหวัดบึงกาฬ",
+		numberOfProjects: 14,
 		LengthOfTheRiverbank: 15.32,
-		budgetPerKm: "97,068,766.32 บาท",
+		LengthOfCompletedRiverbank: 11.44,
 		numberOfMoney: 14,
 	},
 	{
 		budget: "1,365,055,350 บาท",
+		description: "~ 110,310.37 บาท/เมตร",
 		location: "ตำบลริมโขง, อำเภอเชียงของ",
 		province: "จังหวัดเชียงราย",
+		numberOfProjects: 14,
 		LengthOfTheRiverbank: 21.42,
-		budgetPerKm: "63,728,074.23 บาท",
+		LengthOfCompletedRiverbank: 12.4,
 		numberOfMoney: 13,
 	},
 	{
 		budget: "1,207,398,890 บาท",
+		description: "~ 120,004.46 บาท/เมตร",
 		location: "ตำบลบึงกาฬ, อำเภอเมืองบึงกาฬ",
 		province: "จังหวัดบึงกาฬ",
+		numberOfProjects: 12,
 		LengthOfTheRiverbank: 11.99,
-		budgetPerKm: "100,700,491.20 บาท",
+		LengthOfCompletedRiverbank: 10.31,
 		numberOfMoney: 12,
 	},
 	{
 		budget: "1,160,099,000 บาท",
+		description: "~ 126,022.08 บาท/เมตร",
 		location: "ตำบลท่าดอกคำ, อำเภอบึงโขงหลง",
 		province: "จังหวัดบึงกาฬ",
+		numberOfProjects: 12,
 		LengthOfTheRiverbank: 14.62,
-		budgetPerKm: "7,935,013.68 บาท",
+		LengthOfCompletedRiverbank: 9.13,
 		numberOfMoney: 11,
 	},
 ];
@@ -81,7 +95,7 @@ function SectionCard({ data }: { data: SectionData }) {
 
 	return (
 		<motion.div
-			className="relative w-full p-8 flex justify-start items-center gap-8 mt-8 transition-colors rounded-lg"
+			className="relative w-full p-8 flex justify-center items-center gap-8 mt-8 transition-colors rounded-lg"
 			animate={{
 				y: hovered ? 0 : -10,
 				backgroundColor: hovered ? "#424342" : "rgba(0,0,0,0)",
@@ -90,35 +104,32 @@ function SectionCard({ data }: { data: SectionData }) {
 			onHoverStart={() => setHovered(true)}
 			onHoverEnd={() => setHovered(false)}
 		>
-			<div className="font-ibm">
+			<div className="font-ibm w-fit">
 				<p className="font-bold text-4xl text-[#FFEB52]">{data.budget}</p>
-				<p className="text-xl">{data.location}</p>
+				<p className="text-xl text-[#FFEB52]">{data.description}</p>
+				<p className="text-xl mt-4">{data.location}</p>
 				<p className="font-bold text-xl">{data.province}</p>
+				<p className="text-base">(จำนวน {data.numberOfProjects} โครงการ)</p>
 			</div>
-			<div className="flex flex-col justify-start items-start gap-4 w-full">
+			<div className="flex flex-col justify-start items-start gap-4">
 				<div>
 					<MoneyRow numberOfMoney={data.numberOfMoney} />
 				</div>
-				<div className="flex flex-col items-start w-full">
-					<p className="font-ibm text-base">
-						ความยาวของตลิ่ง (วัดผ่าน Google Map)
-						<span className="font-bold text-xl"> {data.LengthOfTheRiverbank} km</span>
-					</p>
-					<div className="flex items-center">
-						<div className="w-4 h-4 bg-white rounded-full"></div>
-						<div
-							className="border-t-2 border-dashed border-white"
-							style={{
-								flexGrow: 1,
-								width: `${data.LengthOfTheRiverbank * 25}px`,
-								minWidth: "20px",
-							}}
-						></div>
-						<div className="w-4 h-4 bg-white rounded-full"></div>
+				<div className="flex flex-col items-center w-full gap-1">
+					<div className="w-full flex flex-col items-end gap-2">
+						<div className="flex gap-1 justify-end items-end">
+							<p className="font-ibm text-base text-[#F5F3F0">
+								ความยาวครอบคลุม <span className="font-bold text-xl">{data.LengthOfTheRiverbank}/</span>
+								{data.LengthOfTheRiverbank} km
+							</p>
+							<FlagSvg />
+						</div>
+						<ProgressBar
+							progress={parseFloat(((data.LengthOfCompletedRiverbank / data.LengthOfTheRiverbank) * 100).toFixed(2))}
+							prefix="ทำไปแล้ว "
+						/>
 					</div>
-					<p className="font-ibm text-base">
-						งบประมาณต่อกิโลเมตร <span className="font-bold text-xl">{data.budgetPerKm}</span>
-					</p>
+					<p className="font-ibm text-sm text-[#F5F3F0] mt-9">*ความยาวของตลิ่งทั้งหมด วัดผ่าน Google Map</p>
 				</div>
 			</div>
 			{/* budget amount */}
@@ -145,7 +156,7 @@ export default function NineteenthSection() {
 				<div className="font-ibm font-bold text-6xl leading-normal">
 					5 พื้นที่ที่ใช้งบประมาณในการสร้างเขื่อนป้องกันตลิ่ง
 				</div>
-				<div className="font-ibm font-bold text-6xl leading-normal">ตลอดระยะเวลา 10 ปีนี้มากที่สุด</div>
+				<div className="font-ibm font-bold text-6xl leading-normal">มากที่สุดตลอดระยะเวลา 10 ปี</div>
 				{sections.map((data, idx) => (
 					<SectionCard key={idx} data={data} />
 				))}
