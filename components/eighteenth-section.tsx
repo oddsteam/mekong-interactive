@@ -17,7 +17,7 @@ export default function EighteenthSection() {
 					ที่นำเสนอระบบข้อมูลการใช้จ่ายภาครัฐ ระบุว่าตั้งแต่ปี 2558 เป็นต้นมา
 					<br />
 					มีการสร้างเขื่อนป้องกันตลิ่งกว่า
-					<span className="font-medium text-[#FFEB52]">527 โครงการในพื้นที่ 92 ตำบล</span> รวมเป็นเงิน{" "}
+					<span className="font-medium text-[#FFEB52]">528 โครงการในพื้นที่ 92 ตำบล</span> รวมเป็นเงิน{" "}
 					<span className="font-medium text-[#FFEB52]">40,162,071,758 บาท</span>
 					<br />
 					โดยมีหน่วยงานที่รับผิดชอบทั้งหมดคือกรมโยธาธิการและผังเมือง กระทรวงมหาดไทย
