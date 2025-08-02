@@ -41,6 +41,7 @@ import ThirtySixthSection from "@/components/thirty-sixth-section";
 import ThirtySeventhSection from "@/components/thirty-seventh-section";
 import Footer from "@/components/footer";
 import ThirtyEighthSection from "@/components/thirty-eighth-section";
+import SuggessionSection from "@/components/suggession-section";
 
 export default function Home() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -92,6 +93,7 @@ export default function Home() {
           <ThirtyFifthSection />
           <ThirtySixthSection />
           <ThirtySeventhSection />
+          <SuggessionSection />
           <ThirtyEighthSection />
           <Footer />
         </div>
