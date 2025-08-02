@@ -26,10 +26,10 @@ export default function Footer() {
   return (
     <section
       ref={sectionRef}
-      className="h-screen relative w-full bg-[#2D3A2B] text-white flex flex-col justify-between items-center snap-center"
+      className="h-screen relative w-full bg-gradient-to-b from-[#2D3A2B] to-[#171918] text-gray-200 flex flex-col justify-between items-center snap-center"
     >
-      <div className="absolute font-ibm text-base lg:text-xl text-white pt-[70px] text-start font-light">
-        <div className="text-2xl lg:text-3xl text-center font-bold pb-6">
+      <div className="absolute font-ibm text-base lg:text-xl pt-[70px] text-start font-light">
+        <div className="text-2xl lg:text-3xl text-center font-medium pb-6 text-[#FFEB52]">
           แหล่งอ้างอิง
         </div>
         <ul className="list-disc w-[80vw] lg:w-[70vw]">
@@ -62,7 +62,7 @@ export default function Footer() {
           </li>
         </ul>
       </div>
-      <div className="absolute bottom-0 h-[15vh] w-full bg-white flex items-center justify-center">
+      <div className="absolute bottom-0 h-[15vh] w-full bg-gray-200 flex items-center justify-center">
         {logo.map((item) => (
           <div
             className="relative w-[11vw] lg:w-[8vw] flex justify-between"

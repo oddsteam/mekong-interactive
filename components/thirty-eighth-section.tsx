@@ -36,7 +36,7 @@ export default function ThirtyEighthSection() {
 			<div className="font-ibm font-light text-center text-2xl 2xl:text-4xl text-gray-200 px-4">
 				<p>
 					สำรวจข้อมูลเพิ่มเติมได้ที่
-                    <a className="font-normal text-[#FFEB52]" href="https://lookerstudio.google.com/u/0/reporting/5ae5f297-cbd6-4f0c-a4a2-105e5ab4cf7d/" target="_blank" rel="noopener noreferrer"> Public Data Dashboard</a>
+                    <a className="font-medium text-[#FFEB52]" href="https://lookerstudio.google.com/u/0/reporting/5ae5f297-cbd6-4f0c-a4a2-105e5ab4cf7d/" target="_blank" rel="noopener noreferrer"> Public Data Dashboard</a>
                     <span className="inline-block align-middle ml-1 relative" style={{ top: '6px' }}>
                         <svg
                             width="24"
