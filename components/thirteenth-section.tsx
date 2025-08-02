@@ -50,7 +50,7 @@ const ImageStack = () => {
 							<motion.div
 								key={index}
 								initial={{ opacity: 0, y: 20 }}
-								animate={{ opacity: 1, y: 0 }}
+								animate={{ opacity: 1, y: 0, transition: { delay: 2 } }}
 								exit={{ opacity: 0, display: "none" }}
 								className="absolute w-full h-full flex items-center justify-center"
 								style={{ zIndex: index + 11 }}
