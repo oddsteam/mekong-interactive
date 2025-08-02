@@ -34,8 +34,7 @@ export default function Footer() {
         </div>
         <ul className="list-disc w-[80vw] lg:w-[70vw]">
           <li>
-            <a href="https://govspending.data.go.th" target="_blank">govspending.data.go.th</a> : ฐานข้อมูล ภาษีไปไหน?
-            ระบบข้อมูลการใช้จ่ายภาครัฐ
+            <a href="https://govspending.data.go.th" target="_blank">ฐานข้อมูล ภาษีไปไหน? ระบบข้อมูลการใช้จ่ายภาครัฐ</a>
           </li>
           <li>
             เพียรพร ดีเทศน์ ผู้อำนวยการฝ่ายรณรงค์ ภูมิภาคเอเชียตะวันออกเฉียงใต้
@@ -46,9 +45,9 @@ export default function Footer() {
           <li>มนัสชัย ใจแดง ผู้ใหญ่บ้านบ้านสบกก จังหวัดเชียงราย</li>
           <li>เตียม เงินท็อก ชาวบ้านบ้านสบกก จังหวัดเชียงราย</li>
           <li>
-            สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน) : GISTDA
+            สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน): GISTDA
           </li>
-          <li>Mekong River Commission (MRC) : <a href="https://portal.mrcmekong.org" target="_blank">portal.mrcmekong.org</a></li>
+          <li><a href="https://portal.mrcmekong.org" target="_blank">คณะกรรมาธิการแม่น้ำโขง: Mekong River Commission (MRC)</a></li>
           <li>
             ผศ. อมเรศ บกสุวรรณ อาจารย์ประจำภาควิชาวิศวกรรมโยธา
             มหาวิทยาลัยเทคโนโลยี ราชมงคลธัญบุรี หนึ่งในผู้เขียนงานวิจัย
@@ -59,6 +58,11 @@ export default function Footer() {
             ผังเมืองและนฤมิตศิลป์ มหาวิทยาลัยมหาสารคาม หนึ่งในผู้เขียนงานวิจัย
             “ผลกระทบการสร้างเขื่อนป้องกันตลิ่งต่อภูมิทัศน์พื้นถิ่น ริมแม่น้ำโขง:
             กรณีศึกษาชุมชนท่าอุเทน อำเภอท่าอุเทน จังหวัดนครพนม”
+          </li>
+          <li>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0048969724054093#s0005" target="_blank">
+              งานวิจัย Sharp decline in surface water resources for agriculture and fisheries in the Lower Mekong Basin over 2000-2020
+            </a>
           </li>
         </ul>
       </div>
