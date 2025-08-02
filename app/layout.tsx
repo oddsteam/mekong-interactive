@@ -38,7 +38,7 @@ const kartsatapat = localFont({
 });
 
 const worasait = localFont({
-	src: "./fonts/Worasait.ttf",
+	src: "./fonts/worasait.ttf",
 	variable: "--font-worasait",
 	weight: "100 900",
 });
