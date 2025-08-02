@@ -61,7 +61,7 @@ const sections: SectionData[] = [
 		description: "~ 126,022.08 บาท/เมตร",
 		location: "ตำบลท่าดอกคำ, อำเภอบึงโขงหลง",
 		province: "จังหวัดบึงกาฬ",
-		numberOfProjects: 12,
+		numberOfProjects: 11,
 		LengthOfTheRiverbank: 14.62,
 		LengthOfCompletedRiverbank: 9.13,
 		numberOfMoney: 11,
@@ -144,7 +144,7 @@ function SectionCard({ data }: { data: SectionData }) {
 					pointerEvents: hovered ? "auto" : "none",
 				}}
 				transition={{ duration: 0.2 }}
-				className="absolute top-0 right-0 z-30 bg-[#252625] text-white rounded-bl-lg font-ibm font-bold text-base px-4 py-2"
+				className="absolute top-0 right-0 z-30 bg-[#252625] text-white rounded-bl-lg font-ibm text-sm font-medium text-base px-4 py-2"
 			>
 				<MoneySvg className="inline-block w-8 h-8" /> = 100,000,000 บาท
 			</motion.div>
@@ -163,15 +163,17 @@ export default function NineteenthSection() {
 				{sections.map((data, idx) => (
 					<SectionCard key={idx} data={data} />
 				))}
-				<div className="text-center text-3xl mt-8">
-					<p>เมื่อคำนวณงบประมาณต่อความยาวของเขื่อนป้องกันตลิ่ง (หน่วยกิโลเมตร)</p>
-					<p>โดยคำนวณจากงบประมาณสะสมเทียบกับความยาวของตลิ่งติดแม่น้ำโขงของพื้นที่นั้นๆ</p>
-					<p>พบว่า พื้นที่ที่ได้รับงบประมาณสูงสุดใน 5 อันดับ คือตำบลบึงกาฬ อำเภอเมืองบึงกาฬ</p>
-					<p>จังหวัดบึงกาฬ โดยคิดเป็นกิโลเมตรละ 100 ล้านบาท </p>
-				</div>
-				<div className="text-center text-3xl mt-8">
+				<div className="text-center text-xl mt-8">
 					<p>
-						ทั้งนี้ บริเวณพื้นที่ดังกล่าว อยู่ในจุด <span className="text-[#FFEB52]">“ไข่แดง”</span>{" "}
+						เมื่อจัดอันดับ 5 พื้นที่ซึ่งได้รับงบประมาณสร้างเขื่อนกันตลิ่งสูงสุด มีพื้นที่ของ<span className="text-[#FFEB52]">จังหวัดบึงกาฬติดอันดับไปแล้ว 3 แห่ง</span>ด้วยกัน คือ
+						<br />ตำบลหนองเดิ่น <span className="text-gray-400">(1,487,093,500 บาท)</span> ตำบลบึงกาฬ <span className="text-gray-400">(1,207,398,890 บาท)</span> และตำบลท่าดอกคำ <span className="text-gray-400">(1,160,099,000 บาท)</span>
+						<br />ส่วนความครอบคลุมของโครงการริมตลิ่งแม่น้ำโขงของจังหวัดบึงกาฬพบว่า
+						<br />ความยาวของโครงการกินความยาวของตลิ่งเกิน 50 เปอร์เซ็นต์ทั้ง 3 แห่ง
+					</p>
+				</div>
+				<div className="text-center text-xl mt-8">
+					<p>
+						ทั้งนี้ บริเวณพื้นที่ดังกล่าว อยู่ในจุด <span className="text-[#FFEB52]">‘ไข่แดง’</span>{" "}
 						ของจังหวัดบึงกาฬ
 					</p>
 					<p>เหตุผลในการสร้างเขื่อนกั้นตลิ่งที่หลากหลายถูกหยิบยกขึ้นมามากว่าวัตถุประสงค์ในการป้อง</p>
