@@ -85,7 +85,7 @@ export default function EleventhSection() {
 							className="object-cover"
 						/>
 						<div className="flex flex-col justify-end w-1/2 h-[554px] align-bottom gap-4 text-white font-ibm text-2xl">
-							<p className="font-kartsatapat text-4xl">{item.quote}</p>
+							<p className="font-worasait text-4xl">{item.quote}</p>
 							<p className="">{item.description}</p>
 							<p className="">{item.name}</p>
 						</div>

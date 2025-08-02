@@ -37,6 +37,12 @@ const kartsatapat = localFont({
 	weight: "100 900",
 });
 
+const worasait = localFont({
+	src: "./fonts/Worasait.ttf",
+	variable: "--font-worasait",
+	weight: "100 900",
+});
+
 export const metadata: Metadata = {
 	title: "ตำน้ำพริกละลาย Mekong สำรวจความคุ้มค่าเขื่อนป้องกันตลิ่ง 4 หมื่นล้าน",
 	description: "งบมหาศาลที่ถูกเทลงไป ส่งผลกระทบต่อชีวิตผู้คนริมโขงอย่างไรบ้าง และคุ้มค่าหรือไม่เมื่อเทียบกับผลลัพธ์ที่ได้กลับมา",
@@ -46,7 +52,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 	return (
 		<html lang="en">
 			<body
-				className={`${inter.variable} ${oswald.variable} ${pridi.variable} ${ibm.variable} ${nosansthai.variable} ${roboto.variable} ${kartsatapat.variable}`}
+				className={`${inter.variable} ${oswald.variable} ${pridi.variable} ${ibm.variable} ${nosansthai.variable} ${roboto.variable} ${kartsatapat.variable} ${worasait.variable}`}
 			>
 				{children}
 			</body>

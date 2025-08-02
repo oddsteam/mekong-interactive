@@ -60,7 +60,7 @@ export default function ThirtyThirdSection() {
           </div>
 
           <div className="w-[60%] flex flex-col gap-[100px] mt-16">
-            <div className="font-kartsatapat text-[#FFEB52] text-base lg:text-xl xl:text-2xl italic text-end">
+            <div className="font-worasait text-[#FFEB52] text-base lg:text-xl xl:text-2xl italic text-end">
               “ ผมว่ามันคงจะใช้แบบเดียว เหมือนผมมีเสื้อตัวเดียว ผมอยากให้
               <br />
               คนใส่แล้วมีไซส์เดียวสีเดียวด้วย คนนั้นอาจจะ ใส่ไซส์นี้ไม่ได้

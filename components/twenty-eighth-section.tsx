@@ -32,7 +32,7 @@ export default function TwentyEighthSection() {
             <p className="font-ibm text-center">Picture credit : Pai Deetes</p>
           </div>
           <div className="flex flex-col w-3/4 gap-4">
-            <p className="font-kartsatapat text-sm md:text-md lg:text-xl xl:text-3xl">
+            <p className="font-worasait text-sm md:text-md lg:text-xl xl:text-3xl">
               “ เทศบาลเขามาเคลมว่า พื้นที่นี้จะถูกทำเป็นสวนสาธารณะ
               <br />
               ชาวบ้านเลยทำการเกษตรริมน้ำ ไม่ได้ สูญเสียอาชีพไปเลย

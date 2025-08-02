@@ -18,7 +18,7 @@ export default function ThirtyFirstSection() {
             “
           </span>
 
-          <p className="font-kartsatapat italic leading-normal text-2xl lg:text-4xl">
+          <p className="font-worasait italic leading-normal text-2xl lg:text-4xl">
             เขื่อนมันออกแบบโดยที่ไม่ได้ถามชุมชน การทำเวทีภาคประชาสังคม
             <br />
             ไม่ได้ทำอย่างกว้างขวาง อาจจะรู้จากหน่วยงานภาครัฐเพียงอย่างเดียว

@@ -19,7 +19,7 @@ export default function TwentyNinthSection() {
             </p>
           </div>
           <div className="flex flex-col w-3/4 gap-4 text-xs md:text-sm lg:text-base">
-            <p className="font-kartsatapat text-sm md:text-md lg:text-xl xl:text-3xl">
+            <p className="font-worasait text-sm md:text-md lg:text-xl xl:text-3xl">
               “ เขาเอาหินก้อนใหญ่มาทิ้งๆ ริมแม่น้ำ <br />
               ทำให้บริเวณตรงนั้นมันหายไปเลย”
             </p>
