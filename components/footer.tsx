@@ -30,7 +30,7 @@ export default function Footer() {
 		>
 			<div className="font-ibm text-base lg:text-xl pt-[70px] text-start font-light">
 				<div className="text-2xl lg:text-3xl text-center font-medium pb-6 text-[#FFEB52]">แหล่งอ้างอิง</div>
-				<ul className="list-disc w-[80vw] lg:w-[70vw]">
+				<ul className="list-disc w-[80vw] lg:w-[70vw] text-[1.1rem]">
 					<li>
 						<a href="https://govspending.data.go.th" target="_blank" className="hover:underline">
 							ฐานข้อมูล ภาษีไปไหน? ระบบข้อมูลการใช้จ่ายภาครัฐ
@@ -71,15 +71,15 @@ export default function Footer() {
 						</a>
 					</li>
 				</ul>
-				<div className="text-2xl lg:text-3xl text-center font-medium pb-6 text-[#FFEB52] ">เครดิตภาพถ่าย</div>
-				<ul className="list-disc w-[80vw] lg:w-[70vw] mb-6">
+				<div className="text-2xl lg:text-3xl text-center font-medium pb-6 mt-6 text-[#FFEB52] ">เครดิตภาพถ่าย</div>
+				<ul className="list-disc w-[80vw] lg:w-[70vw] mb-6 text-[1.1rem]">
 					<li>
 						ทิวทัศน์แม่น้ำโขงและเขื่อนป้องกันตลิ่ง: ธีรพัฒน์ แก้วชำนาญ The101.world, กอบบุญ บูรโชควิวัฒน์
 						The101.world
 					</li>
 				</ul>
 			</div>
-			<div className="w-full h-fit bg-gray-200 flex items-center justify-center">
+			<div className="absolute bottom-0 w-full h-fit bg-gray-200 flex items-center justify-center">
 				{logo.map((item) => (
 					<div className="relative w-[11vw] lg:w-[8vw] flex justify-between" key={item.id}>
 						<Image
